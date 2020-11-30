@@ -18,13 +18,13 @@ class QueueArray {
         nItems = 0;
     }
 
-	public void insert(CustomerController customer )  
+	public void insert(Customer customer )  
     { Main.tills.add(customer); }
 
-    public void remove(CustomerController customer)        
+    public void remove(Customer customer)        
     {Main.tills.remove(customer);}
 
-    public CustomerController peek()     
+    public Customer peek()     
     {return Main.tills.get(0);}
 
     public boolean isEmpty()  

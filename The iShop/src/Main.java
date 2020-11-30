@@ -9,49 +9,37 @@ import java.util.List;
 import java.util.Random;
 import java.util.Timer;
 import java.util.TimerTask;
+import java.util.concurrent.BlockingQueue;
+import java.util.concurrent.LinkedBlockingQueue;
 
 public class Main extends Thread {
 	//Global Static Variables
-    static volatile List<CustomerController> customers = Collections.synchronizedList(new ArrayList<CustomerController>());
-	static volatile List<CustomerController> tills = Collections.synchronizedList(new ArrayList<CustomerController>());
-    
-    // Customer Information
-    static int customersCurrentlyInShop = 0;
-    static int totalCustomersToday = 0;
-    static int numOfshoppers=0;
-    
+	static volatile List<Customer> tills = Collections.synchronizedList(new ArrayList<Customer>());
+     
     // Queue Information
     static int numOfOpenTills=0;
     static int maxQueueSize=50;
     
+    static int customersCurrentlyInShop=0;
     // Simulation Clock
-    static int simulationClock=24000;
+    static int simulationClock=10000;
     
 	// Main Method
 	public static void main(String[] args) throws InterruptedException, IOException {
-        // Create Timers
-        TimerTask generateCustomers = new GenerateCustomers(); 
-    	TimerTask Clock = new SimulationClock(); 
-    	
-    	// Run Timers As Daemon
-        Timer generate = new Timer(true); 
-        Timer clock = new Timer(true); 
-        
-        // Start Simulation
-        int delay = (5 + new Random().nextInt(5)) * 500;
-        generate.schedule(generateCustomers,1000,delay);
-        clock.schedule(Clock, 1000,1000); 	
-		System.out.println("========== Simulation Started ==========");
-
-		// Halt Main Class Thread
-        try {Thread.sleep(simulationClock);} 
-        catch (InterruptedException e) {e.printStackTrace();}
-        
-        // Stop Simulation
-        generate.cancel();
-        clock.cancel();
-        System.out.println("========== Simulation Stopped ==========");
-        try {Thread.sleep(3000);} 
-        catch (InterruptedException e) {e.printStackTrace();}
+	      Event event = new Event();
+	      BlockingQueue<Customer> sharedQ = new LinkedBlockingQueue<Customer>(); 
+	      Producer p = new Producer(sharedQ);
+	      Consumer c = new Consumer(event,sharedQ);
+	      
+	      System.out.println("=============== Simulation Started ===============");
+	      p.start();
+	      c.start();
+	      
+	      try{Thread.sleep(simulationClock);
+	       p.interrupt();
+	       c.interrupt();}
+	      catch (InterruptedException e) {e.printStackTrace();} 
+	      System.out.println("\n=============== Simulation Stopped ===============");
+	      
 	}	
 }
