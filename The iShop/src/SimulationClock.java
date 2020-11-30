@@ -2,17 +2,20 @@ import java.util.TimerTask;
 import java.util.concurrent.atomic.AtomicInteger;
 
 public class SimulationClock  extends TimerTask {
-    private final AtomicInteger counter = new AtomicInteger(0);
-    
-    public int getValue() {
-        return counter.get();
+    private AtomicInteger clock = new AtomicInteger(0);
+      
+    @Override
+    public void run() {
+    	clock.incrementAndGet();
+    	// Debug
+    	//System.out.println("Current value: " + clock); 
     }
     
-    @Override
-    public void run() 
-    {
-    	counter.getAndIncrement();
-    	// Debug
-    	//System.out.println("Current value: " + counter); 
+    public void decrement() {
+    	clock.decrementAndGet();
+      }
+    
+    public synchronized int get() {
+        return clock.get();
     }
 }
