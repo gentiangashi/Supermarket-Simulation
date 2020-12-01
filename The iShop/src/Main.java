@@ -13,9 +13,7 @@ import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 
 public class Main extends Thread {
-	//Global Static Variables
-	static volatile List<Customer> tills = Collections.synchronizedList(new ArrayList<Customer>());
-     
+	
     // Queue Information
     static int numOfOpenTills=0;
     static int maxQueueSize=50;
@@ -24,22 +22,25 @@ public class Main extends Thread {
     // Simulation Clock
     static int simulationClock=10000;
     
+    static Event event = new Event();
+    static volatile BlockingQueue<Customer> sharedQ = new LinkedBlockingQueue<Customer>(); 
+
+    
 	// Main Method
-	public static void main(String[] args) throws InterruptedException, IOException {
-	      Event event = new Event();
-	      BlockingQueue<Customer> sharedQ = new LinkedBlockingQueue<Customer>(); 
-	      Producer p = new Producer(sharedQ);
-	      Consumer c = new Consumer(event,sharedQ);
-	      
-	      System.out.println("=============== Simulation Started ===============");
-	      p.start();
-	      c.start();
-	      
-	      try{Thread.sleep(simulationClock);
-	       p.interrupt();
-	       c.interrupt();}
-	      catch (InterruptedException e) {e.printStackTrace();} 
-	      System.out.println("\n=============== Simulation Stopped ===============");
-	      
+	public static void main(String[] args) throws InterruptedException, IOException {	  
+		Event event = new Event();
+		Producer producer = new Producer(sharedQ);
+		Consumer consumer = new Consumer(event,sharedQ);
+		TillOperations till = new TillOperations();
+		System.out.println("=============== Simulation Started ===============\n");
+		producer.start();
+		consumer.start();
+		till.start();
+		try{Thread.sleep(simulationClock);
+		producer.interrupt();
+		consumer.interrupt();
+		till.interrupt();}
+		catch (InterruptedException e) {e.printStackTrace();} 
+		System.out.println("\n=============== Simulation Stopped ===============");    
 	}	
 }

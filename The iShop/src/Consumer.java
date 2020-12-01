@@ -9,18 +9,16 @@ class Consumer extends Thread {
     this.shop = e; 
   } 
   
-  public void run() { 
-    try { 
-      while (true) { 
-        Customer customer = sharedQueue.take();
-        Ticket myTicket = shop.sellTicket();
-        customer.purchaseTicket(myTicket);
-        System.out.println(getName() + " Consumed Customer: " + customer.getID() + " Sold Ticket:" + myTicket.getSeat());
-        System.out.println("[PRODUCTS] " + customer.getBasket());
-      } 
-    } 
-    catch (InterruptedException e) { 
-      System.out.println("Consumer Interrupted");
-    } 
+	public void run() { 
+		try { 
+			while (true) { 
+				Thread.sleep(2);
+				Customer customer = sharedQueue.take();
+				Ticket myTicket = shop.sellTicket();
+				customer.purchaseTicket(myTicket);
+				} 
+			} 
+		catch (InterruptedException e) { 
+			System.out.println("Consumer Interrupted");} 
   } 
 }

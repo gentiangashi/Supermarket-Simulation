@@ -1,14 +1,14 @@
 class Ticket {
-  private String seat;
+  private String entry;
   private boolean sold = false;
 
 
   public Ticket(String s){
-    seat=s;
+	  entry=s;
   }
 
   public String getSeat(){
-    return seat;
+    return entry;
   }
 
   public boolean isSold(){

@@ -14,19 +14,26 @@ class Producer extends Thread {
 		Customer obj;
 		boolean flag=true;
 		while(flag) { 
-			try { 
+			try { 		  
+				  
 					Shopping shopping = new Shopping();
 					try {shopping.addToBasket();} catch (IOException e1) {e1.printStackTrace();}
 					obj=new Customer(shoppers, Shopping.Basket);
 					sharedQueue.put(obj); 
-					System.out.println("\n"+getName() + " Produced [CUSTOMER] " + obj.getID()); 
+
+					// Observers
+					ShopData shopData = new ShopData();
+					ShopDisplay view = new ShopDisplay(shopData);		
+					shopData.setMeasurements(obj.getID(), obj.getBasket());
+					
 					Main.customersCurrentlyInShop++;
-					Thread.sleep(2000); 
 					shoppers++;
+					Thread.sleep(1); 
 				} 
 			catch (InterruptedException e) {System.out.println("Producer Interrupted");
 			flag=false;
       } 
     } 
   } 
+	
 }
