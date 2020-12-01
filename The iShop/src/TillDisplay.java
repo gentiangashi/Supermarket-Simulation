@@ -21,6 +21,6 @@ public class TillDisplay implements TillObserver, TillDisplayElement{
        public void displayTill() {
               System.out.println("\n[Till 0]" + " [Queue Size] " + t0Size);
               System.out.println("[Till 1]" + " [Queue Size] " + t1Size);
-              System.out.println("[Till 2]"  + " [Queue Size] " + t2Size);
+              System.out.println("[Till 2]"  + " [Queue Size] " + t2Size);       
        }
 }

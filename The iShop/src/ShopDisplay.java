@@ -19,6 +19,6 @@ public class ShopDisplay implements ShopObserver, ShopDisplayElement{
        }
 
        public void displayShop() {
-              System.out.println("[CUSTOMER " + id +"]" + " Has Walked In" + " [BASKET] " + basket.toString().replaceAll("(^\\[|\\]$)", ""));
+              System.out.println("\n[CUSTOMER " + id +"]" + " Has Walked In" + " [BASKET] " + basket.toString().replaceAll("(^\\[|\\]$)", ""));
        }
 }
