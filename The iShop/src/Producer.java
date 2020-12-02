@@ -6,38 +6,35 @@ class Producer extends Thread {
 	ReentrantLock lock = new ReentrantLock();
 	private BlockingQueue<Customer> sharedQueue;
 	private int shoppers = 0;
+	private volatile boolean running = true;
   
 	public Producer(BlockingQueue<Customer> aQueue) 
 	{this.sharedQueue = aQueue;} 
     
 	public void run() {
 		Customer obj;
-		boolean flag=true;
-		while(flag) { 
+		while(running) { 
 			lock.lock();
 			try { 		  
-				  
+					Thread.sleep(1);
 					Shopping shopping = new Shopping();
 					try {shopping.addToBasket();} catch (IOException e1) {e1.printStackTrace();}
-					Main.Customers.add(new Customer(shoppers, Shopping.Basket));
 					obj=new Customer(shoppers, Shopping.Basket);
+					//System.out.println(obj.getID() +""+ obj.getBasket());
 					sharedQueue.put(obj); 
-
-					if(Main.Queue0.size()<=Main.Queue1.size() && Main.Queue0.size()<=Main.Queue2.size())
-				    {Main.Queue0.add(obj);} 
-					else if (Main.Queue1.size()<=Main.Queue2.size()) 
-					{Main.Queue1.add(obj);} 
-					else {Main.Queue2.add(obj);}
-
+					
+					ShoppingQueue model = new ShoppingQueue(obj);								
+					//Create a view : to write customer details on console
+					CustomerView customerView = new CustomerView();
+					CustomerView2 QueueView = new CustomerView2();
+					CustomerController controller = new CustomerController(model, customerView, QueueView);
+					controller.updateCustomerView();	
+					controller.updateQueueView();
 					shoppers++;
-										
-					// Observers
-					//ShopData shopData = new ShopData();
-					//ShopDisplay view = new ShopDisplay(shopData);		
-					//shopData.setMeasurements(obj.getID(), obj.getBasket());
+					//read.sleep(100);
 				} 
-			catch (InterruptedException e) {System.out.println("Producer Interrupted");
-			flag=false;
+			catch (InterruptedException e) {System.out.println("Shutting down producer thread...");
+			running=false;
       } 
 			finally {lock.unlock();}
     } 

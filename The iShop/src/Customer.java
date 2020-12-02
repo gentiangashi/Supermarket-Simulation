@@ -2,8 +2,8 @@ import java.util.ArrayList;
 
 class Customer {
 	// Encapsulation to prevent direct entry to variables
-	private int ID=0;
-	private ArrayList<String> Basket = new ArrayList<String>();
+	private static int ID=0;
+	private static ArrayList<String> Basket = new ArrayList<String>();
 	public boolean running;
 	private int shoppers=0;
   
@@ -15,7 +15,7 @@ class Customer {
 		shoppers++;
 	}
   
-	void purchaseTicket(Ticket t){}
+	void purchaseTicket(ShopEntry t){}
 
 	public int countCustomers() {return shoppers;}
 
