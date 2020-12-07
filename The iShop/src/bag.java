@@ -1,19 +1,8 @@
-import java.util.ArrayList;
-import java.util.Collections;
 import java.util.Iterator;
-import java.util.List;
 import java.util.NoSuchElementException;
-import java.util.Random;
 import java.io.BufferedReader;
-import java.io.File;
-import java.io.FileInputStream;
 import java.io.FileReader;
 import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
-import java.nio.file.Files;
-import java.nio.file.Paths;
-import java.security.SecureRandom;
 
 class Bag<Item> implements Iterable<Item> {
     private Node<Item> first;    // beginning of bag
@@ -76,9 +65,9 @@ class Bag<Item> implements Iterable<Item> {
     // Testing
     public static void main(String[] args)throws IOException {
         Bag<String> bag = new Bag<String>();
-        BufferedReader br = new BufferedReader(new FileReader(groceriesFile));
+        BufferedReader file = new BufferedReader(new FileReader(groceriesFile));
         String item;
-        while ((item=br.readLine()).length() > 0 && ((item=br.readLine()) != null)){
+        while ((item=file.readLine()).length() > 0 && ((item=file.readLine()) != null)){
             bag.add(item);
         }
 
