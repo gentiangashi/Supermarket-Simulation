@@ -28,6 +28,9 @@ public class Main {
 
     // Simulation Clock
     static int simulationClock=10000;
+    
+    // Poison Pill
+    public static Customer POISON_PILL = new Customer(-1, null);
 
 	// Main Method
 	public static void main(String[] args) throws InterruptedException, IOException {		 

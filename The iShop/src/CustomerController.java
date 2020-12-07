@@ -18,6 +18,6 @@ public class CustomerController {
    }
    
    public void updateQueueView(){				
-	   	  view2.printQueues(ShoppingQueue.getQueue0(),ShoppingQueue.getQueue1(), ShoppingQueue.getQueue2());
-	   }
+	  view2.printQueues(ShoppingQueue.getQueue0(),ShoppingQueue.getQueue1(), ShoppingQueue.getQueue2());
+   }
 }

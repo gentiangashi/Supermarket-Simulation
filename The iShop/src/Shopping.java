@@ -9,13 +9,10 @@ public class Shopping {
         
     // Generates Customer Basket
     public void addToBasket() throws IOException, InterruptedException {
-		Basket.clear(); 
 		Products product = new Products();
 		product.readProductsCSV();
-		for(int i=0; i<product.getNumOfItems(); i++)
-		{
-			Thread.sleep(1);
-			Basket.add(String.join("", product.getRandomItem()));
-		}
+		Basket.clear(); 
+		Basket.addAll(product.getRandomItems());
+		Thread.sleep(Basket.size());
     }
 }

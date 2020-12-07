@@ -5,7 +5,7 @@ import java.util.concurrent.locks.ReentrantLock;
 
 class Consumer extends Thread {
   private BlockingQueue<Customer> sharedQueue; 
-  private volatile boolean running = true;
+  private volatile boolean finished = false;
   private Shop shop;
   ReentrantLock lock = new ReentrantLock();
   
@@ -14,20 +14,22 @@ class Consumer extends Thread {
 	  this.shop = e;
    } 
   
+  	@Override
 	public void run() { 
-		while(running) { 
-			lock.lock();
+		while(!finished && !sharedQueue.isEmpty()) { 
 			try{
-				Thread.sleep(30);
 				Customer customer = sharedQueue.take();
 				ShopEntry myTicket = shop.sellTicket();
 				customer.purchaseTicket(myTicket);
+				Thread.sleep(1);
 				removeQueue();
-				} 
+				
+				// Safely ends thread using poison pill
+				if(customer.equals(Main.POISON_PILL)) 
+				{finished = true;}
+			}				
 			catch (InterruptedException | IOException e) {System.out.println("Shutting down consumer thread...");
-			running = false;
-			}
-			finally {lock.unlock();}
+			finished = true;}
 		}
   } 		
 	

@@ -6,15 +6,15 @@ class Producer extends Thread {
 	ReentrantLock lock = new ReentrantLock();
 	private BlockingQueue<Customer> sharedQueue;
 	private int shoppers = 0;
-	private volatile boolean running = true;
+	private volatile boolean finished = false;
   
 	public Producer(BlockingQueue<Customer> aQueue) 
 	{this.sharedQueue = aQueue;} 
-    
+	
+  	@Override
 	public void run() {
 		Customer obj;
-		while(running) { 
-			lock.lock();
+		while(!finished) { 
 			try { 		  
 					Thread.sleep(1);
 					Shopping shopping = new Shopping();
@@ -33,10 +33,11 @@ class Producer extends Thread {
 					shoppers++;
 					//read.sleep(100);
 				} 
-			catch (InterruptedException e) {System.out.println("Shutting down producer thread...");
-			running=false;
+			catch (InterruptedException e) {System.out.println("\nShutting down producer thread...");
+			// Signals end of producer
+			try {sharedQueue.put(Main.POISON_PILL);} catch (InterruptedException e1) {e1.printStackTrace();}
+			finished=true;
       } 
-			finally {lock.unlock();}
     } 
   } 	
 }
