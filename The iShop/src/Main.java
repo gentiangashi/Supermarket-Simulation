@@ -2,7 +2,11 @@
  * @author Gentian Gashi | 14/10/2020 | Total Lines: 644
  *
  */
+import java.io.BufferedReader;
+import java.io.FileOutputStream;
 import java.io.IOException;
+import java.io.InputStreamReader;
+import java.io.PrintStream;
 import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.LinkedBlockingQueue;
 
@@ -26,8 +30,13 @@ public class Main {
 	public static void main(String[] args) throws InterruptedException, IOException {		 
 		Shop shop = new Shop();
 		Producer producer = new Producer(sharedQ);
-		Consumer consumer = new Consumer(shop,sharedQ);
-
+		Consumer consumer = new Consumer(shop,sharedQ);	
+   
+		// (Duplicate Stream) Output in console && writes to file
+        FileOutputStream file = new FileOutputStream("output.txt");
+        TeePrintStream tee = new TeePrintStream(file, System.out);
+        System.setOut(tee);
+        
 		System.out.println("=============== Simulation Started ===============");
 		producer.start();
 		consumer.start();
@@ -41,3 +50,4 @@ public class Main {
 		System.out.println("=============== Simulation Stopped ===============");
 	}	
 }
+

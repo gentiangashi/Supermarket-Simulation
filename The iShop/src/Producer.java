@@ -33,7 +33,7 @@ class Producer extends Thread {
 					shoppers++;
 					//read.sleep(100);
 				} 
-			catch (InterruptedException e) {System.out.println("\nShutting down producer thread...");
+			catch (InterruptedException e) {System.out.println("\nShutting down producer thread...\nShutting down consumer thread...");
 			// Signals end of producer
 			try {sharedQueue.put(Main.POISON_PILL);} catch (InterruptedException e1) {e1.printStackTrace();}
 			finished=true;

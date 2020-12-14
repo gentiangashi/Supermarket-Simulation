@@ -1,0 +1,3105 @@
+=============== Simulation Started ===============
+[CUSTOMER] 0 [BASKET] [whole milk, hard cheese, sugar]
+
+[Till 0] [Queue Size] 1
+[Till 1] [Queue Size] 0
+[Till 2] [Queue Size] 0
+[CUSTOMER] 1 [BASKET] [ham, root vegetables, whipped/sour cream, ketchup]
+
+[Till 0] [Queue Size] 1
+[Till 1] [Queue Size] 1
+[Till 2] [Queue Size] 0
+[CUSTOMER] 2 [BASKET] [whole milk, soft cheese, rum]
+
+[Till 0] [Queue Size] 1
+[Till 1] [Queue Size] 1
+[Till 2] [Queue Size] 1
+[CUSTOMER] 3 [BASKET] [canned beer, specialty bar]
+
+[Till 0] [Queue Size] 2
+[Till 1] [Queue Size] 1
+[Till 2] [Queue Size] 1
+[CUSTOMER] 4 [BASKET] [sausage, ham, pip fruit, onions, other vegetables, hard cheese, white bread, bottled water, shopping bags]
+
+[Till 0] [Queue Size] 2
+[Till 1] [Queue Size] 2
+[Till 2] [Queue Size] 1
+[CUSTOMER] 5 [BASKET] [frankfurter, sausage, rolls/buns, brown bread, soda, shopping bags]
+
+[Till 0] [Queue Size] 2
+[Till 1] [Queue Size] 2
+[Till 2] [Queue Size] 2
+[CUSTOMER] 6 [BASKET] [tropical fruit, pip fruit, whole milk, yogurt, ice cream, frozen dessert, domestic eggs, pastry, flour, margarine, coffee, cake bar, napkins, shopping bags]
+
+[Till 0] [Queue Size] 3
+[Till 1] [Queue Size] 2
+[Till 2] [Queue Size] 2
+[CUSTOMER] 7 [BASKET] [frankfurter, beef, other vegetables, cream cheese , domestic eggs, baking powder, salty snack, shopping bags]
+
+[Till 0] [Queue Size] 3
+[Till 1] [Queue Size] 3
+[Till 2] [Queue Size] 2
+[CUSTOMER] 8 [BASKET] [frankfurter, canned beer]
+
+[Till 0] [Queue Size] 3
+[Till 1] [Queue Size] 3
+[Till 2] [Queue Size] 3
+[CUSTOMER] 9 [BASKET] [dishes]
+
+[Till 0] [Queue Size] 4
+[Till 1] [Queue Size] 3
+[Till 2] [Queue Size] 3
+[CUSTOMER] 10 [BASKET] [cereals, detergent]
+
+[Till 0] [Queue Size] 4
+[Till 1] [Queue Size] 4
+[Till 2] [Queue Size] 3
+[CUSTOMER] 11 [BASKET] [packaged fruit/vegetables, processed cheese, frozen vegetables, bottled water, fruit/vegetable juice, snack products, candy]
+
+[Till 0] [Queue Size] 4
+[Till 1] [Queue Size] 4
+[Till 2] [Queue Size] 4
+[CUSTOMER] 12 [BASKET] [citrus fruit, misc. beverages]
+
+[Till 0] [Queue Size] 5
+[Till 1] [Queue Size] 4
+[Till 2] [Queue Size] 4
+[CUSTOMER] 13 [BASKET] [citrus fruit, pip fruit, whole milk, cream cheese , sweet spreads, long life bakery product, cake bar, napkins]
+
+[Till 0] [Queue Size] 5
+[Till 1] [Queue Size] 5
+[Till 2] [Queue Size] 4
+[CUSTOMER] 14 [BASKET] [sausage, chicken, beef, citrus fruit, tropical fruit, root vegetables, onions, herbs, other vegetables, whole milk, butter, curd, yogurt, frozen meals, domestic eggs]
+
+[Till 0] [Queue Size] 5
+[Till 1] [Queue Size] 5
+[Till 2] [Queue Size] 5
+[CUSTOMER] 15 [BASKET] [pot plants]
+
+[Till 0] [Queue Size] 6
+[Till 1] [Queue Size] 5
+[Till 2] [Queue Size] 5
+[CUSTOMER] 16 [BASKET] [pip fruit]
+
+[Till 0] [Queue Size] 6
+[Till 1] [Queue Size] 6
+[Till 2] [Queue Size] 5
+[CUSTOMER] 17 [BASKET] [salt, detergent]
+
+[Till 0] [Queue Size] 6
+[Till 1] [Queue Size] 6
+[Till 2] [Queue Size] 6
+[CUSTOMER] 18 [BASKET] [detergent, flower (seeds)]
+
+[Till 0] [Queue Size] 7
+[Till 1] [Queue Size] 6
+[Till 2] [Queue Size] 6
+[CUSTOMER] 19 [BASKET] [ham, whole milk, white bread]
+
+[Till 0] [Queue Size] 7
+[Till 1] [Queue Size] 7
+[Till 2] [Queue Size] 6
+[CUSTOMER] 20 [BASKET] [soda, fruit/vegetable juice, chewing gum]
+
+[Till 0] [Queue Size] 7
+[Till 1] [Queue Size] 7
+[Till 2] [Queue Size] 7
+[CUSTOMER] 21 [BASKET] [whole milk, yogurt, beverages, brown bread, shopping bags]
+
+[Till 0] [Queue Size] 8
+[Till 1] [Queue Size] 7
+[Till 2] [Queue Size] 7
+[CUSTOMER] 22 [BASKET] [specialty bar]
+
+[Till 0] [Queue Size] 8
+[Till 1] [Queue Size] 8
+[Till 2] [Queue Size] 7
+[CUSTOMER] 23 [BASKET] [frankfurter, other vegetables, cream cheese , sweet spreads, long life bakery product, napkins]
+
+[Till 0] [Queue Size] 8
+[Till 1] [Queue Size] 8
+[Till 2] [Queue Size] 8
+[CUSTOMER] 24 [BASKET] [rolls/buns]
+
+[Till 0] [Queue Size] 9
+[Till 1] [Queue Size] 8
+[Till 2] [Queue Size] 8
+[CUSTOMER] 25 [BASKET] [soda]
+
+[Till 0] [Queue Size] 9
+[Till 1] [Queue Size] 9
+[Till 2] [Queue Size] 8
+[CUSTOMER] 26 [BASKET] [other vegetables, whole milk, fruit/vegetable juice, chocolate]
+
+[Till 0] [Queue Size] 9
+[Till 1] [Queue Size] 9
+[Till 2] [Queue Size] 9
+[CUSTOMER] 27 [BASKET] [sausage, citrus fruit, whole milk, sliced cheese, frozen meals, white bread, chewing gum, photo/film]
+
+[Till 0] [Queue Size] 10
+[Till 1] [Queue Size] 9
+[Till 2] [Queue Size] 9
+[CUSTOMER] 28 [BASKET] [frankfurter, sausage, pork, curd, soda, long life bakery product, napkins]
+
+[Till 0] [Queue Size] 10
+[Till 1] [Queue Size] 10
+[Till 2] [Queue Size] 9
+[CUSTOMER] 29 [BASKET] [pork, tropical fruit]
+
+[Till 0] [Queue Size] 10
+[Till 1] [Queue Size] 10
+[Till 2] [Queue Size] 10
+[CUSTOMER] 30 [BASKET] [whole milk, chewing gum]
+
+[Till 0] [Queue Size] 11
+[Till 1] [Queue Size] 10
+[Till 2] [Queue Size] 10
+[CUSTOMER] 31 [BASKET] [finished products, grapes, other vegetables, curd, beverages, rolls/buns, pastry, waffles, specialty bar]
+
+[Till 0] [Queue Size] 11
+[Till 1] [Queue Size] 11
+[Till 2] [Queue Size] 10
+[CUSTOMER] 32 [BASKET] [sausage, chocolate]
+
+[Till 0] [Queue Size] 11
+[Till 1] [Queue Size] 11
+[Till 2] [Queue Size] 11
+[CUSTOMER] 33 [BASKET] [other vegetables, specialty bar]
+
+[Till 0] [Queue Size] 12
+[Till 1] [Queue Size] 11
+[Till 2] [Queue Size] 11
+[CUSTOMER] 34 [BASKET] [tropical fruit, pip fruit, UHT-milk, rolls/buns, pastry, salt]
+
+[Till 0] [Queue Size] 12
+[Till 1] [Queue Size] 12
+[Till 2] [Queue Size] 11
+[CUSTOMER] 35 [BASKET] [tropical fruit, whole milk, butter, cream cheese , domestic eggs, fruit/vegetable juice, chocolate marshmallow]
+
+[Till 0] [Queue Size] 12
+[Till 1] [Queue Size] 12
+[Till 2] [Queue Size] 12
+[CUSTOMER] 36 [BASKET] [canned beer]
+
+[Till 0] [Queue Size] 13
+[Till 1] [Queue Size] 12
+[Till 2] [Queue Size] 12
+[CUSTOMER] 37 [BASKET] [rolls/buns]
+
+[Till 0] [Queue Size] 13
+[Till 1] [Queue Size] 13
+[Till 2] [Queue Size] 12
+[CUSTOMER] 38 [BASKET] [canned beer]
+
+[Till 0] [Queue Size] 13
+[Till 1] [Queue Size] 13
+[Till 2] [Queue Size] 13
+[CUSTOMER] 39 [BASKET] [tropical fruit]
+
+[Till 0] [Queue Size] 14
+[Till 1] [Queue Size] 13
+[Till 2] [Queue Size] 13
+[CUSTOMER] 40 [BASKET] [domestic eggs, specialty bar, seasonal products, shopping bags]
+
+[Till 0] [Queue Size] 14
+[Till 1] [Queue Size] 14
+[Till 2] [Queue Size] 13
+[CUSTOMER] 41 [BASKET] [soups, male cosmetics]
+
+[Till 0] [Queue Size] 14
+[Till 1] [Queue Size] 14
+[Till 2] [Queue Size] 14
+[CUSTOMER] 42 [BASKET] [pasta, sauces, cake bar, chocolate marshmallow, napkins]
+
+[Till 0] [Queue Size] 15
+[Till 1] [Queue Size] 14
+[Till 2] [Queue Size] 14
+[CUSTOMER] 43 [BASKET] [frankfurter, whole milk]
+
+[Till 0] [Queue Size] 15
+[Till 1] [Queue Size] 15
+[Till 2] [Queue Size] 14
+[CUSTOMER] 44 [BASKET] [whole milk, pastry]
+
+[Till 0] [Queue Size] 15
+[Till 1] [Queue Size] 15
+[Till 2] [Queue Size] 15
+[CUSTOMER] 45 [BASKET] [chicken, pork, pip fruit, other vegetables, whole milk, tidbits, frozen fish, rolls/buns, margarine, baking powder, soda, bottled beer, white wine, waffles, chocolate, candy]
+
+[Till 0] [Queue Size] 16
+[Till 1] [Queue Size] 15
+[Till 2] [Queue Size] 15
+[CUSTOMER] 46 [BASKET] [sausage, tropical fruit, butter milk, spread cheese, tidbits, bottled water, soda, bottled beer]
+
+[Till 0] [Queue Size] 16
+[Till 1] [Queue Size] 16
+[Till 2] [Queue Size] 15
+[CUSTOMER] 47 [BASKET] [soda]
+
+[Till 0] [Queue Size] 16
+[Till 1] [Queue Size] 16
+[Till 2] [Queue Size] 16
+[CUSTOMER] 48 [BASKET] [chicken, tropical fruit, domestic eggs, white wine]
+
+[Till 0] [Queue Size] 17
+[Till 1] [Queue Size] 16
+[Till 2] [Queue Size] 16
+[CUSTOMER] 49 [BASKET] [ice cream]
+
+[Till 0] [Queue Size] 17
+[Till 1] [Queue Size] 17
+[Till 2] [Queue Size] 16
+[CUSTOMER] 50 [BASKET] [chicken, root vegetables, onions, other vegetables, frozen vegetables, cake bar]
+
+[Till 0] [Queue Size] 17
+[Till 1] [Queue Size] 17
+[Till 2] [Queue Size] 17
+[CUSTOMER] 51 [BASKET] [whole milk, yogurt, frozen vegetables, coffee, canned beer, napkins]
+
+[Till 0] [Queue Size] 18
+[Till 1] [Queue Size] 17
+[Till 2] [Queue Size] 17
+[CUSTOMER] 52 [BASKET] [rolls/buns, soda]
+
+[Till 0] [Queue Size] 18
+[Till 1] [Queue Size] 18
+[Till 2] [Queue Size] 17
+[CUSTOMER] 53 [BASKET] [other vegetables, misc. beverages, canned beer]
+
+[Till 0] [Queue Size] 18
+[Till 1] [Queue Size] 18
+[Till 2] [Queue Size] 18
+[CUSTOMER] 54 [BASKET] [pip fruit, yogurt, sliced cheese]
+
+[Till 0] [Queue Size] 19
+[Till 1] [Queue Size] 18
+[Till 2] [Queue Size] 18
+[CUSTOMER] 55 [BASKET] [turkey, seasonal products]
+
+[Till 0] [Queue Size] 19
+[Till 1] [Queue Size] 19
+[Till 2] [Queue Size] 18
+[CUSTOMER] 56 [BASKET] [herbs, whole milk, butter, soups, bottled water, bottled beer]
+
+[Till 0] [Queue Size] 19
+[Till 1] [Queue Size] 19
+[Till 2] [Queue Size] 19
+[CUSTOMER] 57 [BASKET] [frankfurter, pork, tropical fruit, whole milk, whipped/sour cream, frozen vegetables, frozen fish, margarine, newspapers]
+
+[Till 0] [Queue Size] 20
+[Till 1] [Queue Size] 19
+[Till 2] [Queue Size] 19
+[CUSTOMER] 58 [BASKET] [ham, sliced cheese, white bread, canned vegetables, misc. beverages, shopping bags]
+
+[Till 0] [Queue Size] 20
+[Till 1] [Queue Size] 20
+[Till 2] [Queue Size] 19
+[CUSTOMER] 59 [BASKET] [rolls/buns]
+
+[Till 0] [Queue Size] 20
+[Till 1] [Queue Size] 20
+[Till 2] [Queue Size] 20
+[CUSTOMER] 60 [BASKET] [hamburger meat, other vegetables, rolls/buns, instant coffee, hygiene articles]
+
+[Till 0] [Queue Size] 21
+[Till 1] [Queue Size] 20
+[Till 2] [Queue Size] 20
+[CUSTOMER] 61 [BASKET] [whipped/sour cream]
+
+[Till 0] [Queue Size] 21
+[Till 1] [Queue Size] 21
+[Till 2] [Queue Size] 20
+[CUSTOMER] 62 [BASKET] [whole milk, pot plants]
+
+[Till 0] [Queue Size] 21
+[Till 1] [Queue Size] 21
+[Till 2] [Queue Size] 21
+[CUSTOMER] 63 [BASKET] [hamburger meat, citrus fruit, tropical fruit, whole milk, yogurt, brown bread, napkins, shopping bags]
+
+[Till 0] [Queue Size] 22
+[Till 1] [Queue Size] 21
+[Till 2] [Queue Size] 21
+[CUSTOMER] 64 [BASKET] [other vegetables, newspapers]
+
+[Till 0] [Queue Size] 22
+[Till 1] [Queue Size] 22
+[Till 2] [Queue Size] 21
+[CUSTOMER] 65 [BASKET] [whole milk, beverages, pastry, newspapers]
+
+[Till 0] [Queue Size] 22
+[Till 1] [Queue Size] 22
+[Till 2] [Queue Size] 22
+[CUSTOMER] 66 [BASKET] [pip fruit, rolls/buns, bottled water, soda, newspapers]
+
+[Till 0] [Queue Size] 23
+[Till 1] [Queue Size] 22
+[Till 2] [Queue Size] 22
+[CUSTOMER] 67 [BASKET] [whole milk, rolls/buns, specialty chocolate, candy]
+
+[Till 0] [Queue Size] 23
+[Till 1] [Queue Size] 23
+[Till 2] [Queue Size] 22
+[CUSTOMER] 68 [BASKET] [whole milk, butter milk, yogurt, beverages, bottled water, soda, newspapers]
+
+[Till 0] [Queue Size] 23
+[Till 1] [Queue Size] 23
+[Till 2] [Queue Size] 23
+[CUSTOMER] 69 [BASKET] [frankfurter]
+
+[Till 0] [Queue Size] 24
+[Till 1] [Queue Size] 23
+[Till 2] [Queue Size] 23
+[CUSTOMER] 70 [BASKET] [other vegetables, whole milk, specialty cheese]
+
+[Till 0] [Queue Size] 24
+[Till 1] [Queue Size] 24
+[Till 2] [Queue Size] 23
+[CUSTOMER] 71 [BASKET] [sausage, beverages, sliced cheese, rolls/buns, specialty bar, shopping bags]
+
+[Till 0] [Queue Size] 24
+[Till 1] [Queue Size] 24
+[Till 2] [Queue Size] 24
+[CUSTOMER] 72 [BASKET] [whole milk, rolls/buns, pastry, newspapers]
+
+[Till 0] [Queue Size] 25
+[Till 1] [Queue Size] 24
+[Till 2] [Queue Size] 24
+[CUSTOMER] 73 [BASKET] [bottled water, canned beer]
+
+[Till 0] [Queue Size] 25
+[Till 1] [Queue Size] 25
+[Till 2] [Queue Size] 24
+[CUSTOMER] 74 [BASKET] [margarine, long life bakery product, candles]
+
+[Till 0] [Queue Size] 25
+[Till 1] [Queue Size] 25
+[Till 2] [Queue Size] 25
+[CUSTOMER] 75 [BASKET] [bottled water, soda, cake bar, chocolate, shopping bags]
+
+[Till 0] [Queue Size] 26
+[Till 1] [Queue Size] 25
+[Till 2] [Queue Size] 25
+[CUSTOMER] 76 [BASKET] [sausage, organic sausage, chicken, berries, whole milk, butter, whipped/sour cream, soda, fruit/vegetable juice, chocolate]
+
+[Till 0] [Queue Size] 26
+[Till 1] [Queue Size] 26
+[Till 2] [Queue Size] 25
+[CUSTOMER] 77 [BASKET] [tropical fruit, pasta, bottled water]
+
+[Till 0] [Queue Size] 26
+[Till 1] [Queue Size] 26
+[Till 2] [Queue Size] 26
+[CUSTOMER] 78 [BASKET] [other vegetables, yogurt, whipped/sour cream, white bread]
+
+[Till 0] [Queue Size] 27
+[Till 1] [Queue Size] 26
+[Till 2] [Queue Size] 26
+[CUSTOMER] 79 [BASKET] [pip fruit, berries, root vegetables, yogurt, soft cheese, hard cheese, frozen meals, frozen fish, frozen dessert, white bread, pastry, pasta, cereals, soda, long life bakery product, cake bar, detergent]
+
+[Till 0] [Queue Size] 27
+[Till 1] [Queue Size] 27
+[Till 2] [Queue Size] 26
+[CUSTOMER] 80 [BASKET] [rolls/buns, soda]
+
+[Till 0] [Queue Size] 27
+[Till 1] [Queue Size] 27
+[Till 2] [Queue Size] 27
+[CUSTOMER] 81 [BASKET] [cleaner]
+
+[Till 0] [Queue Size] 28
+[Till 1] [Queue Size] 27
+[Till 2] [Queue Size] 27
+[CUSTOMER] 82 [BASKET] [whole milk, yogurt, rolls/buns, soups, coffee]
+
+[Till 0] [Queue Size] 28
+[Till 1] [Queue Size] 28
+[Till 2] [Queue Size] 27
+[CUSTOMER] 83 [BASKET] [pastry, canned fish, salty snack, waffles]
+
+[Till 0] [Queue Size] 28
+[Till 1] [Queue Size] 28
+[Till 2] [Queue Size] 28
+[CUSTOMER] 84 [BASKET] [rolls/buns, coffee]
+
+[Till 0] [Queue Size] 29
+[Till 1] [Queue Size] 28
+[Till 2] [Queue Size] 28
+[CUSTOMER] 85 [BASKET] [sausage]
+
+[Till 0] [Queue Size] 29
+[Till 1] [Queue Size] 29
+[Till 2] [Queue Size] 28
+[CUSTOMER] 86 [BASKET] [frankfurter, tropical fruit, other vegetables, spices, flower (seeds)]
+
+[Till 0] [Queue Size] 29
+[Till 1] [Queue Size] 29
+[Till 2] [Queue Size] 29
+[CUSTOMER] 87 [BASKET] [other vegetables, whole milk, brown bread, napkins]
+
+[Till 0] [Queue Size] 30
+[Till 1] [Queue Size] 29
+[Till 2] [Queue Size] 29
+[CUSTOMER] 88 [BASKET] [pastry, canned beer]
+
+[Till 0] [Queue Size] 30
+[Till 1] [Queue Size] 30
+[Till 2] [Queue Size] 29
+[CUSTOMER] 89 [BASKET] [tropical fruit, yogurt, coffee, cling film/bags, newspapers]
+
+[Till 0] [Queue Size] 30
+[Till 1] [Queue Size] 30
+[Till 2] [Queue Size] 30
+[CUSTOMER] 90 [BASKET] [bottled beer, liquor, red/blush wine, shopping bags]
+
+[Till 0] [Queue Size] 31
+[Till 1] [Queue Size] 30
+[Till 2] [Queue Size] 30
+[CUSTOMER] 91 [BASKET] [bottled beer]
+
+[Till 0] [Queue Size] 31
+[Till 1] [Queue Size] 31
+[Till 2] [Queue Size] 30
+[CUSTOMER] 92 [BASKET] [meat, beef, root vegetables, other vegetables, butter, yogurt, frozen vegetables, frozen meals, coffee, long life bakery product, shopping bags]
+
+[Till 0] [Queue Size] 31
+[Till 1] [Queue Size] 31
+[Till 2] [Queue Size] 31
+[CUSTOMER] 93 [BASKET] [whole milk, cream cheese , coffee]
+
+[Till 0] [Queue Size] 32
+[Till 1] [Queue Size] 31
+[Till 2] [Queue Size] 31
+[CUSTOMER] 94 [BASKET] [pork, beef, root vegetables, whole milk, pasta, margarine, jam, bottled water]
+
+[Till 0] [Queue Size] 32
+[Till 1] [Queue Size] 32
+[Till 2] [Queue Size] 31
+[CUSTOMER] 95 [BASKET] [other vegetables]
+
+[Till 0] [Queue Size] 32
+[Till 1] [Queue Size] 32
+[Till 2] [Queue Size] 32
+[CUSTOMER] 96 [BASKET] [other vegetables, whole milk, cream cheese , frozen meals, rolls/buns, brown bread, bottled water, newspapers]
+
+[Till 0] [Queue Size] 33
+[Till 1] [Queue Size] 32
+[Till 2] [Queue Size] 32
+[CUSTOMER] 97 [BASKET] [sausage, other vegetables, yogurt, rolls/buns, soda, canned beer]
+
+[Till 0] [Queue Size] 33
+[Till 1] [Queue Size] 33
+[Till 2] [Queue Size] 32
+[CUSTOMER] 98 [BASKET] [root vegetables, yogurt, UHT-milk, rolls/buns]
+
+[Till 0] [Queue Size] 33
+[Till 1] [Queue Size] 33
+[Till 2] [Queue Size] 33
+[CUSTOMER] 99 [BASKET] [white bread, bottled beer]
+
+[Till 0] [Queue Size] 34
+[Till 1] [Queue Size] 33
+[Till 2] [Queue Size] 33
+[CUSTOMER] 100 [BASKET] [sausage, other vegetables, frozen dessert, pastry, fruit/vegetable juice, long life bakery product]
+
+[Till 0] [Queue Size] 34
+[Till 1] [Queue Size] 34
+[Till 2] [Queue Size] 33
+[CUSTOMER] 101 [BASKET] [grapes, whole milk, processed cheese, rolls/buns, white bread, fruit/vegetable juice]
+
+[Till 0] [Queue Size] 34
+[Till 1] [Queue Size] 34
+[Till 2] [Queue Size] 34
+[CUSTOMER] 102 [BASKET] [frankfurter, rolls/buns, soda]
+
+[Till 0] [Queue Size] 35
+[Till 1] [Queue Size] 34
+[Till 2] [Queue Size] 34
+[CUSTOMER] 103 [BASKET] [sweet spreads]
+
+[Till 0] [Queue Size] 35
+[Till 1] [Queue Size] 35
+[Till 2] [Queue Size] 34
+[CUSTOMER] 104 [BASKET] [soda]
+
+[Till 0] [Queue Size] 35
+[Till 1] [Queue Size] 35
+[Till 2] [Queue Size] 35
+[CUSTOMER] 105 [BASKET] [frozen chicken, fruit/vegetable juice, bottled beer, shopping bags]
+
+[Till 0] [Queue Size] 36
+[Till 1] [Queue Size] 35
+[Till 2] [Queue Size] 35
+[CUSTOMER] 106 [BASKET] [onions, roll products ]
+
+[Till 0] [Queue Size] 36
+[Till 1] [Queue Size] 36
+[Till 2] [Queue Size] 35
+[CUSTOMER] 107 [BASKET] [newspapers]
+
+[Till 0] [Queue Size] 36
+[Till 1] [Queue Size] 36
+[Till 2] [Queue Size] 36
+[CUSTOMER] 108 [BASKET] [yogurt, soda]
+
+[Till 0] [Queue Size] 37
+[Till 1] [Queue Size] 36
+[Till 2] [Queue Size] 36
+[CUSTOMER] 109 [BASKET] [liquor]
+
+[Till 0] [Queue Size] 37
+[Till 1] [Queue Size] 37
+[Till 2] [Queue Size] 36
+[CUSTOMER] 110 [BASKET] [rolls/buns, fruit/vegetable juice, bottled beer, canned beer, chocolate]
+
+[Till 0] [Queue Size] 37
+[Till 1] [Queue Size] 37
+[Till 2] [Queue Size] 37
+[CUSTOMER] 111 [BASKET] [other vegetables, condensed milk, soda, misc. beverages]
+
+[Till 0] [Queue Size] 38
+[Till 1] [Queue Size] 37
+[Till 2] [Queue Size] 37
+[CUSTOMER] 112 [BASKET] [rolls/buns, brown bread]
+
+[Till 0] [Queue Size] 38
+[Till 1] [Queue Size] 38
+[Till 2] [Queue Size] 37
+[CUSTOMER] 113 [BASKET] [whole milk, yogurt, sliced cheese, mayonnaise, rolls/buns, pasta, specialty chocolate]
+
+[Till 0] [Queue Size] 38
+[Till 1] [Queue Size] 38
+[Till 2] [Queue Size] 38
+[CUSTOMER] 114 [BASKET] [chicken]
+
+[Till 0] [Queue Size] 39
+[Till 1] [Queue Size] 38
+[Till 2] [Queue Size] 38
+[CUSTOMER] 115 [BASKET] [dessert, specialty chocolate]
+
+[Till 0] [Queue Size] 39
+[Till 1] [Queue Size] 39
+[Till 2] [Queue Size] 38
+[CUSTOMER] 116 [BASKET] [dessert, oil, cat food, soda]
+
+[Till 0] [Queue Size] 39
+[Till 1] [Queue Size] 39
+[Till 2] [Queue Size] 39
+[CUSTOMER] 117 [BASKET] [citrus fruit, soft cheese, rolls/buns, pastry]
+
+[Till 0] [Queue Size] 40
+[Till 1] [Queue Size] 39
+[Till 2] [Queue Size] 39
+[CUSTOMER] 118 [BASKET] [turkey, root vegetables, other vegetables, curd, bottled beer, specialty chocolate]
+
+[Till 0] [Queue Size] 40
+[Till 1] [Queue Size] 40
+[Till 2] [Queue Size] 39
+[CUSTOMER] 119 [BASKET] [pip fruit, nuts/prunes, whole milk, yogurt, whipped/sour cream, cream cheese , rolls/buns, waffles, chocolate, newspapers]
+
+[Till 0] [Queue Size] 40
+[Till 1] [Queue Size] 40
+[Till 2] [Queue Size] 40
+[CUSTOMER] 120 [BASKET] [tropical fruit, pip fruit, whole milk, pastry]
+
+[Till 0] [Queue Size] 41
+[Till 1] [Queue Size] 40
+[Till 2] [Queue Size] 40
+[CUSTOMER] 121 [BASKET] [other vegetables, whole milk, margarine]
+
+[Till 0] [Queue Size] 41
+[Till 1] [Queue Size] 41
+[Till 2] [Queue Size] 40
+[CUSTOMER] 122 [BASKET] [other vegetables, rolls/buns, brown bread]
+
+[Till 0] [Queue Size] 41
+[Till 1] [Queue Size] 41
+[Till 2] [Queue Size] 41
+[CUSTOMER] 123 [BASKET] [pip fruit, yogurt]
+
+[Till 0] [Queue Size] 42
+[Till 1] [Queue Size] 41
+[Till 2] [Queue Size] 41
+[CUSTOMER] 124 [BASKET] [canned beer]
+
+[Till 0] [Queue Size] 42
+[Till 1] [Queue Size] 42
+[Till 2] [Queue Size] 41
+[CUSTOMER] 125 [BASKET] [root vegetables, whole milk, bottled water, abrasive cleaner, cling film/bags]
+
+[Till 0] [Queue Size] 42
+[Till 1] [Queue Size] 42
+[Till 2] [Queue Size] 42
+[CUSTOMER] 126 [BASKET] [sugar]
+
+[Till 0] [Queue Size] 43
+[Till 1] [Queue Size] 42
+[Till 2] [Queue Size] 42
+[CUSTOMER] 127 [BASKET] [chicken, other vegetables, whole milk, curd, domestic eggs, rolls/buns, softener]
+
+[Till 0] [Queue Size] 43
+[Till 1] [Queue Size] 43
+[Till 2] [Queue Size] 42
+[CUSTOMER] 128 [BASKET] [sausage, hamburger meat, whole milk, pastry, shopping bags]
+
+[Till 0] [Queue Size] 43
+[Till 1] [Queue Size] 43
+[Till 2] [Queue Size] 43
+[CUSTOMER] 129 [BASKET] [other vegetables, curd, frozen meals, frozen potato products, soda, bottled beer, kitchen towels, candles]
+
+[Till 0] [Queue Size] 44
+[Till 1] [Queue Size] 43
+[Till 2] [Queue Size] 43
+[CUSTOMER] 130 [BASKET] [pip fruit, whole milk, curd, pastry, bottled water]
+
+[Till 0] [Queue Size] 44
+[Till 1] [Queue Size] 44
+[Till 2] [Queue Size] 43
+[CUSTOMER] 131 [BASKET] [frankfurter, yogurt, domestic eggs]
+
+[Till 0] [Queue Size] 44
+[Till 1] [Queue Size] 44
+[Till 2] [Queue Size] 44
+[CUSTOMER] 132 [BASKET] [meat, chicken, hamburger meat, citrus fruit, whole milk, butter, butter milk, yogurt, soft cheese, frozen vegetables, domestic eggs, rolls/buns, fruit/vegetable juice, seasonal products]
+
+[Till 0] [Queue Size] 45
+[Till 1] [Queue Size] 44
+[Till 2] [Queue Size] 44
+[CUSTOMER] 133 [BASKET] [meat, yogurt, cream cheese , brown bread, meat spreads, canned fish]
+
+[Till 0] [Queue Size] 45
+[Till 1] [Queue Size] 45
+[Till 2] [Queue Size] 44
+[CUSTOMER] 134 [BASKET] [meat, yogurt, cream cheese , brown bread, meat spreads, canned fish]
+
+[Till 0] [Queue Size] 45
+[Till 1] [Queue Size] 45
+[Till 2] [Queue Size] 45
+[CUSTOMER] 135 [BASKET] [curd, yogurt]
+
+[Till 0] [Queue Size] 46
+[Till 1] [Queue Size] 45
+[Till 2] [Queue Size] 45
+[CUSTOMER] 136 [BASKET] [chewing gum, shopping bags]
+
+[Till 0] [Queue Size] 46
+[Till 1] [Queue Size] 46
+[Till 2] [Queue Size] 45
+[CUSTOMER] 137 [BASKET] [specialty chocolate]
+
+[Till 0] [Queue Size] 46
+[Till 1] [Queue Size] 46
+[Till 2] [Queue Size] 46
+[CUSTOMER] 138 [BASKET] [bottled water, candy]
+
+[Till 0] [Queue Size] 47
+[Till 1] [Queue Size] 46
+[Till 2] [Queue Size] 46
+[CUSTOMER] 139 [BASKET] [frankfurter, rolls/buns, soda, specialty bar]
+
+[Till 0] [Queue Size] 47
+[Till 1] [Queue Size] 47
+[Till 2] [Queue Size] 46
+[CUSTOMER] 140 [BASKET] [pet care]
+
+[Till 0] [Queue Size] 47
+[Till 1] [Queue Size] 47
+[Till 2] [Queue Size] 47
+[CUSTOMER] 141 [BASKET] [baking powder]
+
+[Till 0] [Queue Size] 48
+[Till 1] [Queue Size] 47
+[Till 2] [Queue Size] 47
+[CUSTOMER] 142 [BASKET] [rolls/buns, misc. beverages]
+
+[Till 0] [Queue Size] 48
+[Till 1] [Queue Size] 48
+[Till 2] [Queue Size] 47
+[CUSTOMER] 143 [BASKET] [citrus fruit, tropical fruit, rolls/buns, oil, mustard, soups, sweet spreads, soda, syrup, canned beer, waffles, chocolate, specialty bar, dish cleaner, baby cosmetics, cookware]
+
+[Till 0] [Queue Size] 48
+[Till 1] [Queue Size] 48
+[Till 2] [Queue Size] 48
+[CUSTOMER] 144 [BASKET] [whisky, chewing gum]
+
+[Till 0] [Queue Size] 49
+[Till 1] [Queue Size] 48
+[Till 2] [Queue Size] 48
+[CUSTOMER] 145 [BASKET] [meat, curd, white bread]
+
+[Till 0] [Queue Size] 49
+[Till 1] [Queue Size] 49
+[Till 2] [Queue Size] 48
+[CUSTOMER] 146 [BASKET] [hamburger meat, citrus fruit, whole milk, butter, yogurt, cat food, hygiene articles, shopping bags]
+
+[Till 0] [Queue Size] 49
+[Till 1] [Queue Size] 49
+[Till 2] [Queue Size] 49
+[CUSTOMER] 147 [BASKET] [chewing gum, napkins]
+
+[Till 0] [Queue Size] 50
+[Till 1] [Queue Size] 49
+[Till 2] [Queue Size] 49
+[CUSTOMER] 148 [BASKET] [soda]
+
+[Till 0] [Queue Size] 50
+[Till 1] [Queue Size] 50
+[Till 2] [Queue Size] 49
+[CUSTOMER] 149 [BASKET] [whole milk]
+
+[Till 0] [Queue Size] 50
+[Till 1] [Queue Size] 50
+[Till 2] [Queue Size] 50
+[CUSTOMER] 150 [BASKET] [hamburger meat, whole milk, whipped/sour cream]
+
+[Till 0] [Queue Size] 51
+[Till 1] [Queue Size] 50
+[Till 2] [Queue Size] 50
+[CUSTOMER] 151 [BASKET] [bottled beer]
+
+[Till 0] [Queue Size] 51
+[Till 1] [Queue Size] 51
+[Till 2] [Queue Size] 50
+[CUSTOMER] 152 [BASKET] [other vegetables, butter milk, frozen fish, oil]
+
+[Till 0] [Queue Size] 51
+[Till 1] [Queue Size] 51
+[Till 2] [Queue Size] 51
+[CUSTOMER] 153 [BASKET] [other vegetables, brown bread, pastry, bottled water, canned beer]
+
+[Till 0] [Queue Size] 52
+[Till 1] [Queue Size] 51
+[Till 2] [Queue Size] 51
+[CUSTOMER] 154 [BASKET] [meat, hamburger meat, onions, other vegetables, condensed milk, brown bread]
+
+[Till 0] [Queue Size] 52
+[Till 1] [Queue Size] 52
+[Till 2] [Queue Size] 51
+[CUSTOMER] 155 [BASKET] [butter, bottled beer, liquor]
+
+[Till 0] [Queue Size] 52
+[Till 1] [Queue Size] 52
+[Till 2] [Queue Size] 52
+[CUSTOMER] 156 [BASKET] [frozen meals, canned beer, red/blush wine, salty snack]
+
+[Till 0] [Queue Size] 53
+[Till 1] [Queue Size] 52
+[Till 2] [Queue Size] 52
+[CUSTOMER] 157 [BASKET] [soda, cling film/bags, house keeping products]
+
+[Till 0] [Queue Size] 53
+[Till 1] [Queue Size] 53
+[Till 2] [Queue Size] 52
+[CUSTOMER] 158 [BASKET] [rolls/buns]
+
+[Till 0] [Queue Size] 53
+[Till 1] [Queue Size] 53
+[Till 2] [Queue Size] 53
+[CUSTOMER] 159 [BASKET] [whole milk, cream cheese , newspapers]
+
+[Till 0] [Queue Size] 54
+[Till 1] [Queue Size] 53
+[Till 2] [Queue Size] 53
+[CUSTOMER] 160 [BASKET] [specialty bar]
+
+[Till 0] [Queue Size] 54
+[Till 1] [Queue Size] 54
+[Till 2] [Queue Size] 53
+[CUSTOMER] 161 [BASKET] [tropical fruit, other vegetables, bottled water, bottled beer, napkins]
+
+[Till 0] [Queue Size] 54
+[Till 1] [Queue Size] 54
+[Till 2] [Queue Size] 54
+[CUSTOMER] 162 [BASKET] [beef, whole milk, yogurt, brown bread, dish cleaner, dishes]
+
+[Till 0] [Queue Size] 55
+[Till 1] [Queue Size] 54
+[Till 2] [Queue Size] 54
+[CUSTOMER] 163 [BASKET] [whole milk]
+
+[Till 0] [Queue Size] 55
+[Till 1] [Queue Size] 55
+[Till 2] [Queue Size] 54
+[CUSTOMER] 164 [BASKET] [yogurt, rolls/buns, brown bread, salty snack, pot plants]
+
+[Till 0] [Queue Size] 55
+[Till 1] [Queue Size] 55
+[Till 2] [Queue Size] 55
+[CUSTOMER] 165 [BASKET] [citrus fruit, whole milk, soft cheese, rice, margarine, sugar, soups, bottled water]
+
+[Till 0] [Queue Size] 56
+[Till 1] [Queue Size] 55
+[Till 2] [Queue Size] 55
+[CUSTOMER] 166 [BASKET] [chewing gum]
+
+[Till 0] [Queue Size] 56
+[Till 1] [Queue Size] 56
+[Till 2] [Queue Size] 55
+[CUSTOMER] 167 [BASKET] [tropical fruit, pastry, fruit/vegetable juice]
+
+[Till 0] [Queue Size] 56
+[Till 1] [Queue Size] 56
+[Till 2] [Queue Size] 56
+[CUSTOMER] 168 [BASKET] [bottled water]
+
+[Till 0] [Queue Size] 57
+[Till 1] [Queue Size] 56
+[Till 2] [Queue Size] 56
+[CUSTOMER] 169 [BASKET] [other vegetables, whole milk, white bread]
+
+[Till 0] [Queue Size] 57
+[Till 1] [Queue Size] 57
+[Till 2] [Queue Size] 56
+[CUSTOMER] 170 [BASKET] [grapes, cream cheese ]
+
+[Till 0] [Queue Size] 57
+[Till 1] [Queue Size] 57
+[Till 2] [Queue Size] 57
+[CUSTOMER] 171 [BASKET] [whole milk]
+
+[Till 0] [Queue Size] 58
+[Till 1] [Queue Size] 57
+[Till 2] [Queue Size] 57
+[CUSTOMER] 172 [BASKET] [root vegetables, other vegetables, whole milk, yogurt, whipped/sour cream, flour, long life bakery product, shopping bags]
+
+[Till 0] [Queue Size] 58
+[Till 1] [Queue Size] 58
+[Till 2] [Queue Size] 57
+[CUSTOMER] 173 [BASKET] [ham, processed cheese, rolls/buns]
+
+[Till 0] [Queue Size] 58
+[Till 1] [Queue Size] 58
+[Till 2] [Queue Size] 58
+[CUSTOMER] 174 [BASKET] [oil, margarine, bottled water, red/blush wine, waffles]
+
+[Till 0] [Queue Size] 59
+[Till 1] [Queue Size] 58
+[Till 2] [Queue Size] 58
+[CUSTOMER] 175 [BASKET] [whole milk, curd, oil, margarine]
+
+[Till 0] [Queue Size] 59
+[Till 1] [Queue Size] 59
+[Till 2] [Queue Size] 58
+[CUSTOMER] 176 [BASKET] [butter, bottled beer]
+
+[Till 0] [Queue Size] 59
+[Till 1] [Queue Size] 59
+[Till 2] [Queue Size] 59
+[CUSTOMER] 177 [BASKET] [nuts/prunes, canned fish, soda, shopping bags]
+
+[Till 0] [Queue Size] 60
+[Till 1] [Queue Size] 59
+[Till 2] [Queue Size] 59
+[CUSTOMER] 178 [BASKET] [root vegetables, whole milk, whipped/sour cream, frozen meals, flour, oil, waffles, seasonal products, napkins, house keeping products, photo/film, shopping bags]
+
+[Till 0] [Queue Size] 60
+[Till 1] [Queue Size] 60
+[Till 2] [Queue Size] 59
+[CUSTOMER] 179 [BASKET] [other vegetables]
+
+[Till 0] [Queue Size] 60
+[Till 1] [Queue Size] 60
+[Till 2] [Queue Size] 60
+[CUSTOMER] 180 [BASKET] [pork, other vegetables, chewing gum, napkins, dishes]
+
+[Till 0] [Queue Size] 61
+[Till 1] [Queue Size] 60
+[Till 2] [Queue Size] 60
+[CUSTOMER] 181 [BASKET] [meat, pip fruit, root vegetables, whole milk, frozen vegetables]
+
+[Till 0] [Queue Size] 61
+[Till 1] [Queue Size] 61
+[Till 2] [Queue Size] 60
+[CUSTOMER] 182 [BASKET] [root vegetables, onions, other vegetables, whole milk]
+
+[Till 0] [Queue Size] 61
+[Till 1] [Queue Size] 61
+[Till 2] [Queue Size] 61
+[CUSTOMER] 183 [BASKET] [whole milk, domestic eggs]
+
+[Till 0] [Queue Size] 62
+[Till 1] [Queue Size] 61
+[Till 2] [Queue Size] 61
+[CUSTOMER] 184 [BASKET] [curd]
+
+[Till 0] [Queue Size] 62
+[Till 1] [Queue Size] 62
+[Till 2] [Queue Size] 61
+[CUSTOMER] 185 [BASKET] [curd, dessert, rolls/buns, seasonal products, dishes]
+
+[Till 0] [Queue Size] 62
+[Till 1] [Queue Size] 62
+[Till 2] [Queue Size] 62
+[CUSTOMER] 186 [BASKET] [beef, berries, root vegetables, onions, flour, mustard, soda, bottled beer, salty snack, popcorn]
+
+[Till 0] [Queue Size] 63
+[Till 1] [Queue Size] 62
+[Till 2] [Queue Size] 62
+[CUSTOMER] 187 [BASKET] [beef]
+
+[Till 0] [Queue Size] 63
+[Till 1] [Queue Size] 63
+[Till 2] [Queue Size] 62
+[CUSTOMER] 188 [BASKET] [sausage, soda]
+
+[Till 0] [Queue Size] 63
+[Till 1] [Queue Size] 63
+[Till 2] [Queue Size] 63
+[CUSTOMER] 189 [BASKET] [chicken, pork, whole milk, coffee, soda, canned beer, napkins, newspapers]
+
+[Till 0] [Queue Size] 64
+[Till 1] [Queue Size] 63
+[Till 2] [Queue Size] 63
+[CUSTOMER] 190 [BASKET] [frankfurter, sausage, meat, tropical fruit, brown bread, bottled water, nut snack]
+
+[Till 0] [Queue Size] 64
+[Till 1] [Queue Size] 64
+[Till 2] [Queue Size] 63
+[CUSTOMER] 191 [BASKET] [UHT-milk, margarine, bottled water, soda]
+
+[Till 0] [Queue Size] 64
+[Till 1] [Queue Size] 64
+[Till 2] [Queue Size] 64
+[CUSTOMER] 192 [BASKET] [curd cheese, bottled water, white wine]
+
+[Till 0] [Queue Size] 65
+[Till 1] [Queue Size] 64
+[Till 2] [Queue Size] 64
+[CUSTOMER] 193 [BASKET] [domestic eggs, canned beer, shopping bags]
+
+[Till 0] [Queue Size] 65
+[Till 1] [Queue Size] 65
+[Till 2] [Queue Size] 64
+[CUSTOMER] 194 [BASKET] [pip fruit, whole milk, curd, yogurt, whipped/sour cream, rolls/buns, oil, margarine, mustard, candles, newspapers]
+
+[Till 0] [Queue Size] 65
+[Till 1] [Queue Size] 65
+[Till 2] [Queue Size] 65
+[CUSTOMER] 195 [BASKET] [beverages, rolls/buns, chewing gum]
+
+[Till 0] [Queue Size] 66
+[Till 1] [Queue Size] 65
+[Till 2] [Queue Size] 65
+[CUSTOMER] 196 [BASKET] [sausage, other vegetables, yogurt, rolls/buns, soda, canned beer]
+
+[Till 0] [Queue Size] 66
+[Till 1] [Queue Size] 66
+[Till 2] [Queue Size] 65
+[CUSTOMER] 197 [BASKET] [bottled beer]
+
+[Till 0] [Queue Size] 66
+[Till 1] [Queue Size] 66
+[Till 2] [Queue Size] 66
+[CUSTOMER] 198 [BASKET] [soda]
+
+[Till 0] [Queue Size] 67
+[Till 1] [Queue Size] 66
+[Till 2] [Queue Size] 66
+[CUSTOMER] 199 [BASKET] [tropical fruit, other vegetables, domestic eggs, zwieback, ketchup, soda, dishes]
+
+[Till 0] [Queue Size] 67
+[Till 1] [Queue Size] 67
+[Till 2] [Queue Size] 66
+[CUSTOMER] 200 [BASKET] [sausage, pork]
+
+[Till 0] [Queue Size] 67
+[Till 1] [Queue Size] 67
+[Till 2] [Queue Size] 67
+[CUSTOMER] 201 [BASKET] [other vegetables, whipped/sour cream, roll products ]
+
+[Till 0] [Queue Size] 68
+[Till 1] [Queue Size] 67
+[Till 2] [Queue Size] 67
+[CUSTOMER] 202 [BASKET] [bottled beer, light bulbs]
+
+[Till 0] [Queue Size] 68
+[Till 1] [Queue Size] 68
+[Till 2] [Queue Size] 67
+[CUSTOMER] 203 [BASKET] [oil, female sanitary products, cling film/bags]
+
+[Till 0] [Queue Size] 68
+[Till 1] [Queue Size] 68
+[Till 2] [Queue Size] 68
+[CUSTOMER] 204 [BASKET] [whole milk]
+
+[Till 0] [Queue Size] 69
+[Till 1] [Queue Size] 68
+[Till 2] [Queue Size] 68
+[CUSTOMER] 205 [BASKET] [beef, berries, other vegetables, white bread, shopping bags]
+
+[Till 0] [Queue Size] 69
+[Till 1] [Queue Size] 69
+[Till 2] [Queue Size] 68
+[CUSTOMER] 206 [BASKET] [citrus fruit, tropical fruit, pip fruit, root vegetables, packaged fruit/vegetables, dessert, yogurt, UHT-milk, hard cheese, mayonnaise, domestic eggs, spices, canned vegetables, fruit/vegetable juice, candy]
+
+[Till 0] [Queue Size] 69
+[Till 1] [Queue Size] 69
+[Till 2] [Queue Size] 69
+[CUSTOMER] 207 [BASKET] [pork, pip fruit, packaged fruit/vegetables, dessert, frozen vegetables, pasta, margarine, chocolate marshmallow, detergent, softener]
+
+[Till 0] [Queue Size] 70
+[Till 1] [Queue Size] 69
+[Till 2] [Queue Size] 69
+[CUSTOMER] 208 [BASKET] [soda]
+
+[Till 0] [Queue Size] 70
+[Till 1] [Queue Size] 70
+[Till 2] [Queue Size] 69
+[CUSTOMER] 209 [BASKET] [whole milk, yogurt, bottled water]
+
+[Till 0] [Queue Size] 70
+[Till 1] [Queue Size] 70
+[Till 2] [Queue Size] 70
+[CUSTOMER] 210 [BASKET] [other vegetables, sweet spreads]
+
+[Till 0] [Queue Size] 71
+[Till 1] [Queue Size] 70
+[Till 2] [Queue Size] 70
+[CUSTOMER] 211 [BASKET] [brown bread, soda, fruit/vegetable juice, bottled beer]
+
+[Till 0] [Queue Size] 71
+[Till 1] [Queue Size] 71
+[Till 2] [Queue Size] 70
+[CUSTOMER] 212 [BASKET] [beef, tropical fruit, root vegetables, whole milk]
+
+[Till 0] [Queue Size] 71
+[Till 1] [Queue Size] 71
+[Till 2] [Queue Size] 71
+[CUSTOMER] 213 [BASKET] [other vegetables, whole milk, yogurt, specialty cheese, bottled water, misc. beverages, fruit/vegetable juice]
+
+[Till 0] [Queue Size] 72
+[Till 1] [Queue Size] 71
+[Till 2] [Queue Size] 71
+[CUSTOMER] 214 [BASKET] [sausage, rolls/buns, mustard]
+
+[Till 0] [Queue Size] 72
+[Till 1] [Queue Size] 72
+[Till 2] [Queue Size] 71
+[CUSTOMER] 215 [BASKET] [sausage, ham, hamburger meat, whole milk, soda, softener, newspapers]
+
+[Till 0] [Queue Size] 72
+[Till 1] [Queue Size] 72
+[Till 2] [Queue Size] 72
+[CUSTOMER] 216 [BASKET] [sausage, root vegetables]
+
+[Till 0] [Queue Size] 73
+[Till 1] [Queue Size] 72
+[Till 2] [Queue Size] 72
+[CUSTOMER] 217 [BASKET] [tropical fruit, curd, yogurt, rolls/buns, brown bread, bottled water, bottled beer, seasonal products]
+
+[Till 0] [Queue Size] 73
+[Till 1] [Queue Size] 73
+[Till 2] [Queue Size] 72
+[CUSTOMER] 218 [BASKET] [rolls/buns, white bread]
+
+[Till 0] [Queue Size] 73
+[Till 1] [Queue Size] 73
+[Till 2] [Queue Size] 73
+[CUSTOMER] 219 [BASKET] [frankfurter, hamburger meat, tropical fruit, root vegetables, domestic eggs, Instant food products, detergent]
+
+[Till 0] [Queue Size] 74
+[Till 1] [Queue Size] 73
+[Till 2] [Queue Size] 73
+[CUSTOMER] 220 [BASKET] [misc. beverages]
+
+[Till 0] [Queue Size] 74
+[Till 1] [Queue Size] 74
+[Till 2] [Queue Size] 73
+[CUSTOMER] 221 [BASKET] [butter, spread cheese, ice cream, rolls/buns, soda, long life bakery product, chocolate, chocolate marshmallow]
+
+[Till 0] [Queue Size] 74
+[Till 1] [Queue Size] 74
+[Till 2] [Queue Size] 74
+[CUSTOMER] 222 [BASKET] [photo/film]
+
+[Till 0] [Queue Size] 75
+[Till 1] [Queue Size] 74
+[Till 2] [Queue Size] 74
+[CUSTOMER] 223 [BASKET] [citrus fruit, mustard, soda, canned beer, salty snack, chocolate, candy, shopping bags]
+
+[Till 0] [Queue Size] 75
+[Till 1] [Queue Size] 75
+[Till 2] [Queue Size] 74
+[CUSTOMER] 224 [BASKET] [root vegetables, herbs, other vegetables, whole milk, rolls/buns, roll products , soda, shopping bags]
+
+[Till 0] [Queue Size] 75
+[Till 1] [Queue Size] 75
+[Till 2] [Queue Size] 75
+[CUSTOMER] 225 [BASKET] [pet care]
+
+[Till 0] [Queue Size] 76
+[Till 1] [Queue Size] 75
+[Till 2] [Queue Size] 75
+[CUSTOMER] 226 [BASKET] [soda, bottled beer, specialty bar]
+
+[Till 0] [Queue Size] 76
+[Till 1] [Queue Size] 76
+[Till 2] [Queue Size] 75
+[CUSTOMER] 227 [BASKET] [photo/film]
+
+[Till 0] [Queue Size] 76
+[Till 1] [Queue Size] 76
+[Till 2] [Queue Size] 76
+[CUSTOMER] 228 [BASKET] [canned beer]
+
+[Till 0] [Queue Size] 77
+[Till 1] [Queue Size] 76
+[Till 2] [Queue Size] 76
+[CUSTOMER] 229 [BASKET] [canned beer]
+
+[Till 0] [Queue Size] 77
+[Till 1] [Queue Size] 77
+[Till 2] [Queue Size] 76
+[CUSTOMER] 230 [BASKET] [pip fruit]
+
+[Till 0] [Queue Size] 77
+[Till 1] [Queue Size] 77
+[Till 2] [Queue Size] 77
+[CUSTOMER] 231 [BASKET] [whole milk, artif. sweetener]
+
+[Till 0] [Queue Size] 78
+[Till 1] [Queue Size] 77
+[Till 2] [Queue Size] 77
+[CUSTOMER] 232 [BASKET] [citrus fruit, other vegetables, beverages, snack products]
+
+[Till 0] [Queue Size] 78
+[Till 1] [Queue Size] 78
+[Till 2] [Queue Size] 77
+[CUSTOMER] 233 [BASKET] [frankfurter, pork, root vegetables, whole milk, yogurt, frozen fish, soda]
+
+[Till 0] [Queue Size] 78
+[Till 1] [Queue Size] 78
+[Till 2] [Queue Size] 78
+[CUSTOMER] 234 [BASKET] [root vegetables, whole milk, butter, yogurt, whipped/sour cream, soft cheese, cream cheese , domestic eggs, brown bread, jam, misc. beverages, fruit/vegetable juice, napkins, pot plants]
+
+[Till 0] [Queue Size] 79
+[Till 1] [Queue Size] 78
+[Till 2] [Queue Size] 78
+[CUSTOMER] 235 [BASKET] [root vegetables, butter, curd, pastry, chocolate, kitchen towels]
+
+[Till 0] [Queue Size] 79
+[Till 1] [Queue Size] 79
+[Till 2] [Queue Size] 78
+[CUSTOMER] 236 [BASKET] [rolls/buns, canned beer]
+
+[Till 0] [Queue Size] 79
+[Till 1] [Queue Size] 79
+[Till 2] [Queue Size] 79
+[CUSTOMER] 237 [BASKET] [other vegetables, frozen vegetables, pastry, specialty bar]
+
+[Till 0] [Queue Size] 80
+[Till 1] [Queue Size] 79
+[Till 2] [Queue Size] 79
+[CUSTOMER] 238 [BASKET] [curd, UHT-milk, spread cheese, pasta, Instant food products, soda, shopping bags]
+
+[Till 0] [Queue Size] 80
+[Till 1] [Queue Size] 80
+[Till 2] [Queue Size] 79
+[CUSTOMER] 239 [BASKET] [pip fruit, herbs, other vegetables, whole milk, whipped/sour cream]
+
+[Till 0] [Queue Size] 80
+[Till 1] [Queue Size] 80
+[Till 2] [Queue Size] 80
+[CUSTOMER] 240 [BASKET] [beef, other vegetables, domestic eggs, pastry]
+
+[Till 0] [Queue Size] 81
+[Till 1] [Queue Size] 80
+[Till 2] [Queue Size] 80
+[CUSTOMER] 241 [BASKET] [frankfurter, rolls/buns]
+
+[Till 0] [Queue Size] 81
+[Till 1] [Queue Size] 81
+[Till 2] [Queue Size] 80
+[CUSTOMER] 242 [BASKET] [canned vegetables, female sanitary products, shopping bags]
+
+[Till 0] [Queue Size] 81
+[Till 1] [Queue Size] 81
+[Till 2] [Queue Size] 81
+[CUSTOMER] 243 [BASKET] [soda, salty snack, cake bar, candy]
+
+[Till 0] [Queue Size] 82
+[Till 1] [Queue Size] 81
+[Till 2] [Queue Size] 81
+[CUSTOMER] 244 [BASKET] [chicken, citrus fruit, tropical fruit, root vegetables, whole milk, frozen fish, rolls/buns]
+
+[Till 0] [Queue Size] 82
+[Till 1] [Queue Size] 82
+[Till 2] [Queue Size] 81
+[CUSTOMER] 245 [BASKET] [citrus fruit, tropical fruit, pip fruit, grapes, root vegetables, other vegetables, whole milk, curd, dessert, whipped/sour cream, UHT-milk, frozen vegetables, frozen meals, bottled water, fruit/vegetable juice, specialty chocolate, napkins]
+
+[Till 0] [Queue Size] 82
+[Till 1] [Queue Size] 82
+[Till 2] [Queue Size] 82
+[CUSTOMER] 246 [BASKET] [rolls/buns, soda]
+
+[Till 0] [Queue Size] 83
+[Till 1] [Queue Size] 82
+[Till 2] [Queue Size] 82
+[CUSTOMER] 247 [BASKET] [yogurt, cream cheese , pastry, canned fish, fruit/vegetable juice, shopping bags]
+
+[Till 0] [Queue Size] 83
+[Till 1] [Queue Size] 83
+[Till 2] [Queue Size] 82
+[CUSTOMER] 248 [BASKET] [bottled beer, seasonal products]
+
+[Till 0] [Queue Size] 83
+[Till 1] [Queue Size] 83
+[Till 2] [Queue Size] 83
+[CUSTOMER] 249 [BASKET] [whole milk, whipped/sour cream, rolls/buns, soda, waffles, candy, cling film/bags]
+
+[Till 0] [Queue Size] 84
+[Till 1] [Queue Size] 83
+[Till 2] [Queue Size] 83
+[CUSTOMER] 250 [BASKET] [grapes, berries, other vegetables, curd, sliced cheese, pastry, misc. beverages, salty snack, detergent, hygiene articles, napkins]
+
+[Till 0] [Queue Size] 84
+[Till 1] [Queue Size] 84
+[Till 2] [Queue Size] 83
+[CUSTOMER] 251 [BASKET] [detergent]
+
+[Till 0] [Queue Size] 84
+[Till 1] [Queue Size] 84
+[Till 2] [Queue Size] 84
+[CUSTOMER] 252 [BASKET] [butter milk]
+
+[Till 0] [Queue Size] 85
+[Till 1] [Queue Size] 84
+[Till 2] [Queue Size] 84
+[CUSTOMER] 253 [BASKET] [citrus fruit, other vegetables, whole milk, flour]
+
+[Till 0] [Queue Size] 85
+[Till 1] [Queue Size] 85
+[Till 2] [Queue Size] 84
+[CUSTOMER] 254 [BASKET] [napkins, dishes]
+
+[Till 0] [Queue Size] 85
+[Till 1] [Queue Size] 85
+[Till 2] [Queue Size] 85
+[CUSTOMER] 255 [BASKET] [waffles, specialty chocolate]
+
+[Till 0] [Queue Size] 86
+[Till 1] [Queue Size] 85
+[Till 2] [Queue Size] 85
+[CUSTOMER] 256 [BASKET] [ham, light bulbs]
+
+[Till 0] [Queue Size] 86
+[Till 1] [Queue Size] 86
+[Till 2] [Queue Size] 85
+[CUSTOMER] 257 [BASKET] [frankfurter, sausage, citrus fruit, tropical fruit, pip fruit, whole milk, hard cheese, cream cheese , domestic eggs, rice, sugar, canned fruit, misc. beverages, fruit/vegetable juice, hygiene articles]
+
+[Till 0] [Queue Size] 86
+[Till 1] [Queue Size] 86
+[Till 2] [Queue Size] 86
+[CUSTOMER] 258 [BASKET] [hamburger meat, onions, whole milk, frozen vegetables, bottled water, rum]
+
+[Till 0] [Queue Size] 87
+[Till 1] [Queue Size] 86
+[Till 2] [Queue Size] 86
+[CUSTOMER] 259 [BASKET] [shopping bags]
+
+[Till 0] [Queue Size] 87
+[Till 1] [Queue Size] 87
+[Till 2] [Queue Size] 86
+[CUSTOMER] 260 [BASKET] [root vegetables, whole milk, rolls/buns, zwieback, newspapers]
+
+[Till 0] [Queue Size] 87
+[Till 1] [Queue Size] 87
+[Till 2] [Queue Size] 87
+[CUSTOMER] 261 [BASKET] [hamburger meat, other vegetables, whole milk, curd, yogurt, rolls/buns, pastry, semi-finished bread, margarine, bottled water, fruit/vegetable juice]
+
+[Till 0] [Queue Size] 88
+[Till 1] [Queue Size] 87
+[Till 2] [Queue Size] 87
+[CUSTOMER] 262 [BASKET] [tropical fruit, root vegetables, frozen vegetables, ice cream, bottled water, cling film/bags]
+
+[Till 0] [Queue Size] 88
+[Till 1] [Queue Size] 88
+[Till 2] [Queue Size] 87
+[CUSTOMER] 263 [BASKET] [berries, soda, waffles]
+
+[Till 0] [Queue Size] 88
+[Till 1] [Queue Size] 88
+[Till 2] [Queue Size] 88
+[CUSTOMER] 264 [BASKET] [root vegetables, herbs, other vegetables, whole milk, yogurt, whipped/sour cream, frozen vegetables, frozen fruits, baking powder, pickled vegetables, fruit/vegetable juice, sparkling wine, long life bakery product, shopping bags]
+
+[Till 0] [Queue Size] 89
+[Till 1] [Queue Size] 88
+[Till 2] [Queue Size] 88
+[CUSTOMER] 265 [BASKET] [whipped/sour cream, ice cream, pot plants]
+
+[Till 0] [Queue Size] 89
+[Till 1] [Queue Size] 89
+[Till 2] [Queue Size] 88
+[CUSTOMER] 266 [BASKET] [pork, hamburger meat]
+
+[Till 0] [Queue Size] 89
+[Till 1] [Queue Size] 89
+[Till 2] [Queue Size] 89
+[CUSTOMER] 267 [BASKET] [newspapers]
+
+[Till 0] [Queue Size] 90
+[Till 1] [Queue Size] 89
+[Till 2] [Queue Size] 89
+[CUSTOMER] 268 [BASKET] [finished products, chicken, pork, beef, hamburger meat, berries, butter, domestic eggs, rolls/buns, brown bread, pastry, flour, Instant food products, soda, salty snack, chocolate, specialty chocolate, hygiene articles, flower (seeds)]
+
+[Till 0] [Queue Size] 90
+[Till 1] [Queue Size] 90
+[Till 2] [Queue Size] 89
+[CUSTOMER] 269 [BASKET] [butter milk, brown bread]
+
+[Till 0] [Queue Size] 90
+[Till 1] [Queue Size] 90
+[Till 2] [Queue Size] 90
+[CUSTOMER] 270 [BASKET] [ham, chicken, citrus fruit, berries, onions, whole milk, curd, yogurt, frozen vegetables, rolls/buns, margarine, soda, liquor (appetizer), cake bar, candy, seasonal products, skin care]
+
+[Till 0] [Queue Size] 91
+[Till 1] [Queue Size] 90
+[Till 2] [Queue Size] 90
+[CUSTOMER] 271 [BASKET] [pork, tropical fruit, whole milk, curd, yogurt, hard cheese, frozen meals, frozen dessert, domestic eggs, cereals, baking powder, fruit/vegetable juice, soap]
+
+[Till 0] [Queue Size] 91
+[Till 1] [Queue Size] 91
+[Till 2] [Queue Size] 90
+[CUSTOMER] 272 [BASKET] [frankfurter, meat, pip fruit, ice cream, brown bread, pickled vegetables, jam, canned fish, liquor, waffles, newspapers]
+
+[Till 0] [Queue Size] 91
+[Till 1] [Queue Size] 91
+[Till 2] [Queue Size] 91
+[CUSTOMER] 273 [BASKET] [frankfurter, soda]
+
+[Till 0] [Queue Size] 92
+[Till 1] [Queue Size] 91
+[Till 2] [Queue Size] 91
+[CUSTOMER] 274 [BASKET] [root vegetables, other vegetables, whole milk, yogurt, rolls/buns, chewing gum, candles]
+
+[Till 0] [Queue Size] 92
+[Till 1] [Queue Size] 92
+[Till 2] [Queue Size] 91
+[CUSTOMER] 275 [BASKET] [flower soil/fertilizer]
+
+[Till 0] [Queue Size] 92
+[Till 1] [Queue Size] 92
+[Till 2] [Queue Size] 92
+[CUSTOMER] 276 [BASKET] [chocolate]
+
+[Till 0] [Queue Size] 93
+[Till 1] [Queue Size] 92
+[Till 2] [Queue Size] 92
+[CUSTOMER] 277 [BASKET] [sausage, beverages, brown bread, salt, soda, salty snack, popcorn, dental care, make up remover]
+
+[Till 0] [Queue Size] 93
+[Till 1] [Queue Size] 93
+[Till 2] [Queue Size] 92
+[CUSTOMER] 278 [BASKET] [waffles, specialty chocolate]
+
+[Till 0] [Queue Size] 93
+[Till 1] [Queue Size] 93
+[Till 2] [Queue Size] 93
+[CUSTOMER] 279 [BASKET] [pork, other vegetables, whole milk, brown bread, pastry, soda, misc. beverages]
+
+[Till 0] [Queue Size] 94
+[Till 1] [Queue Size] 93
+[Till 2] [Queue Size] 93
+[CUSTOMER] 280 [BASKET] [tropical fruit, other vegetables, waffles, napkins]
+
+[Till 0] [Queue Size] 94
+[Till 1] [Queue Size] 94
+[Till 2] [Queue Size] 93
+[CUSTOMER] 281 [BASKET] [soda]
+
+[Till 0] [Queue Size] 94
+[Till 1] [Queue Size] 94
+[Till 2] [Queue Size] 94
+[CUSTOMER] 282 [BASKET] [meat, beef, tropical fruit, pip fruit, berries, other vegetables, whole milk, white bread, brown bread, sugar, detergent]
+
+[Till 0] [Queue Size] 95
+[Till 1] [Queue Size] 94
+[Till 2] [Queue Size] 94
+[CUSTOMER] 283 [BASKET] [curd, coffee, bottled beer]
+
+[Till 0] [Queue Size] 95
+[Till 1] [Queue Size] 95
+[Till 2] [Queue Size] 94
+[CUSTOMER] 284 [BASKET] [bottled water, canned beer]
+
+[Till 0] [Queue Size] 95
+[Till 1] [Queue Size] 95
+[Till 2] [Queue Size] 95
+[CUSTOMER] 285 [BASKET] [pork, beef, berries, packaged fruit/vegetables, whole milk, mayonnaise, frozen fish, frozen potato products, oil, mustard, cat food, coffee, soda, chocolate, dish cleaner, napkins, newspapers]
+
+[Till 0] [Queue Size] 96
+[Till 1] [Queue Size] 95
+[Till 2] [Queue Size] 95
+[CUSTOMER] 286 [BASKET] [sausage, pork, beef, hamburger meat, grapes, root vegetables, other vegetables, dessert, rolls/buns, dog food, napkins]
+
+[Till 0] [Queue Size] 96
+[Till 1] [Queue Size] 96
+[Till 2] [Queue Size] 95
+[CUSTOMER] 287 [BASKET] [soda]
+
+[Till 0] [Queue Size] 96
+[Till 1] [Queue Size] 96
+[Till 2] [Queue Size] 96
+[CUSTOMER] 288 [BASKET] [turkey, yogurt, rolls/buns, pastry, margarine, bottled water, soda, fruit/vegetable juice, canned beer]
+
+[Till 0] [Queue Size] 97
+[Till 1] [Queue Size] 96
+[Till 2] [Queue Size] 96
+[CUSTOMER] 289 [BASKET] [shopping bags]
+
+[Till 0] [Queue Size] 97
+[Till 1] [Queue Size] 97
+[Till 2] [Queue Size] 96
+[CUSTOMER] 290 [BASKET] [butter, yogurt, rolls/buns, soda]
+
+[Till 0] [Queue Size] 97
+[Till 1] [Queue Size] 97
+[Till 2] [Queue Size] 97
+[CUSTOMER] 291 [BASKET] [bottled beer]
+
+[Till 0] [Queue Size] 98
+[Till 1] [Queue Size] 97
+[Till 2] [Queue Size] 97
+[CUSTOMER] 292 [BASKET] [tropical fruit, nuts/prunes, whole milk, cream cheese , domestic eggs, rolls/buns, white bread, flour, margarine, cat food, bottled water, bottled beer, softener, hygiene articles, napkins]
+
+[Till 0] [Queue Size] 98
+[Till 1] [Queue Size] 98
+[Till 2] [Queue Size] 97
+[CUSTOMER] 293 [BASKET] [citrus fruit, pastry]
+
+[Till 0] [Queue Size] 98
+[Till 1] [Queue Size] 98
+[Till 2] [Queue Size] 98
+[CUSTOMER] 294 [BASKET] [canned beer]
+
+[Till 0] [Queue Size] 99
+[Till 1] [Queue Size] 98
+[Till 2] [Queue Size] 98
+[CUSTOMER] 295 [BASKET] [whole milk, coffee]
+
+[Till 0] [Queue Size] 99
+[Till 1] [Queue Size] 99
+[Till 2] [Queue Size] 98
+[CUSTOMER] 296 [BASKET] [whole milk, bottled beer]
+
+[Till 0] [Queue Size] 99
+[Till 1] [Queue Size] 99
+[Till 2] [Queue Size] 99
+[CUSTOMER] 297 [BASKET] [chicken, hamburger meat, herbs, whipped/sour cream, soups, soda, canned beer, dish cleaner, napkins, cling film/bags]
+
+[Till 0] [Queue Size] 100
+[Till 1] [Queue Size] 99
+[Till 2] [Queue Size] 99
+[CUSTOMER] 298 [BASKET] [rolls/buns, pastry, semi-finished bread]
+
+[Till 0] [Queue Size] 100
+[Till 1] [Queue Size] 100
+[Till 2] [Queue Size] 99
+[CUSTOMER] 299 [BASKET] [rolls/buns, soda, chewing gum]
+
+[Till 0] [Queue Size] 100
+[Till 1] [Queue Size] 100
+[Till 2] [Queue Size] 100
+[CUSTOMER] 300 [BASKET] [frankfurter, other vegetables, whole milk, spread cheese, sugar, soda, bottled beer, house keeping products]
+
+[Till 0] [Queue Size] 101
+[Till 1] [Queue Size] 100
+[Till 2] [Queue Size] 100
+[CUSTOMER] 301 [BASKET] [sausage, root vegetables, frozen vegetables, frozen meals, rolls/buns, bottled water]
+
+[Till 0] [Queue Size] 101
+[Till 1] [Queue Size] 101
+[Till 2] [Queue Size] 100
+[CUSTOMER] 302 [BASKET] [sausage, other vegetables, whipped/sour cream, processed cheese, brown bread]
+
+[Till 0] [Queue Size] 101
+[Till 1] [Queue Size] 101
+[Till 2] [Queue Size] 101
+[CUSTOMER] 303 [BASKET] [bottled beer]
+
+[Till 0] [Queue Size] 102
+[Till 1] [Queue Size] 101
+[Till 2] [Queue Size] 101
+[CUSTOMER] 304 [BASKET] [canned beer, specialty bar]
+
+[Till 0] [Queue Size] 102
+[Till 1] [Queue Size] 102
+[Till 2] [Queue Size] 101
+[CUSTOMER] 305 [BASKET] [root vegetables, whole milk, condensed milk, frozen vegetables, rolls/buns, white bread]
+
+[Till 0] [Queue Size] 102
+[Till 1] [Queue Size] 102
+[Till 2] [Queue Size] 102
+[CUSTOMER] 306 [BASKET] [rolls/buns, fruit/vegetable juice]
+
+[Till 0] [Queue Size] 103
+[Till 1] [Queue Size] 102
+[Till 2] [Queue Size] 102
+[CUSTOMER] 307 [BASKET] [shopping bags]
+
+[Till 0] [Queue Size] 103
+[Till 1] [Queue Size] 103
+[Till 2] [Queue Size] 102
+[CUSTOMER] 308 [BASKET] [pip fruit]
+
+[Till 0] [Queue Size] 103
+[Till 1] [Queue Size] 103
+[Till 2] [Queue Size] 103
+[CUSTOMER] 309 [BASKET] [liver loaf, whole milk, yogurt, condensed milk, specialty cheese, white bread]
+
+[Till 0] [Queue Size] 104
+[Till 1] [Queue Size] 103
+[Till 2] [Queue Size] 103
+[CUSTOMER] 310 [BASKET] [beef, tropical fruit, margarine, bottled water]
+
+[Till 0] [Queue Size] 104
+[Till 1] [Queue Size] 104
+[Till 2] [Queue Size] 103
+[CUSTOMER] 311 [BASKET] [sausage, pork, yogurt, spread cheese, cereals, canned vegetables, salty snack, cling film/bags, shopping bags]
+
+[Till 0] [Queue Size] 104
+[Till 1] [Queue Size] 104
+[Till 2] [Queue Size] 104
+[CUSTOMER] 312 [BASKET] [bottled beer, canned beer]
+
+[Till 0] [Queue Size] 105
+[Till 1] [Queue Size] 104
+[Till 2] [Queue Size] 104
+[CUSTOMER] 313 [BASKET] [UHT-milk, domestic eggs, oil, margarine]
+
+[Till 0] [Queue Size] 105
+[Till 1] [Queue Size] 105
+[Till 2] [Queue Size] 104
+[CUSTOMER] 314 [BASKET] [root vegetables, onions, other vegetables]
+
+[Till 0] [Queue Size] 105
+[Till 1] [Queue Size] 105
+[Till 2] [Queue Size] 105
+[CUSTOMER] 315 [BASKET] [sausage, citrus fruit, root vegetables, whole milk, waffles, chocolate marshmallow]
+
+[Till 0] [Queue Size] 106
+[Till 1] [Queue Size] 105
+[Till 2] [Queue Size] 105
+[CUSTOMER] 316 [BASKET] [zwieback, dishes]
+
+[Till 0] [Queue Size] 106
+[Till 1] [Queue Size] 106
+[Till 2] [Queue Size] 105
+[CUSTOMER] 317 [BASKET] [frozen dessert, semi-finished bread]
+
+[Till 0] [Queue Size] 106
+[Till 1] [Queue Size] 106
+[Till 2] [Queue Size] 106
+[CUSTOMER] 318 [BASKET] [bottled water]
+
+[Till 0] [Queue Size] 107
+[Till 1] [Queue Size] 106
+[Till 2] [Queue Size] 106
+[CUSTOMER] 319 [BASKET] [other vegetables, whole milk, fruit/vegetable juice, chocolate]
+
+[Till 0] [Queue Size] 107
+[Till 1] [Queue Size] 107
+[Till 2] [Queue Size] 106
+[CUSTOMER] 320 [BASKET] [beef, root vegetables, other vegetables, frozen vegetables, frozen dessert, domestic eggs]
+
+[Till 0] [Queue Size] 107
+[Till 1] [Queue Size] 107
+[Till 2] [Queue Size] 107
+[CUSTOMER] 321 [BASKET] [liver loaf, tropical fruit, other vegetables]
+
+[Till 0] [Queue Size] 108
+[Till 1] [Queue Size] 107
+[Till 2] [Queue Size] 107
+[CUSTOMER] 322 [BASKET] [UHT-milk, mayonnaise, rolls/buns, pickled vegetables, soda, hygiene articles, shopping bags]
+
+[Till 0] [Queue Size] 108
+[Till 1] [Queue Size] 108
+[Till 2] [Queue Size] 107
+[CUSTOMER] 323 [BASKET] [chicken, other vegetables, whole milk, domestic eggs, oil, margarine, sugar, coffee, bottled beer, specialty bar, candy]
+
+[Till 0] [Queue Size] 108
+[Till 1] [Queue Size] 108
+[Till 2] [Queue Size] 108
+[CUSTOMER] 324 [BASKET] [pet care]
+
+[Till 0] [Queue Size] 109
+[Till 1] [Queue Size] 108
+[Till 2] [Queue Size] 108
+[CUSTOMER] 325 [BASKET] [whole milk, yogurt, bottled water, canned beer]
+
+[Till 0] [Queue Size] 109
+[Till 1] [Queue Size] 109
+[Till 2] [Queue Size] 108
+[CUSTOMER] 326 [BASKET] [root vegetables, onions, other vegetables, whole milk, curd, yogurt, frozen fish, waffles]
+
+[Till 0] [Queue Size] 109
+[Till 1] [Queue Size] 109
+[Till 2] [Queue Size] 109
+[CUSTOMER] 327 [BASKET] [beef, berries, root vegetables, whole milk, dessert, spread cheese, brown bread]
+
+[Till 0] [Queue Size] 110
+[Till 1] [Queue Size] 109
+[Till 2] [Queue Size] 109
+[CUSTOMER] 328 [BASKET] [fish, other vegetables, pastry, margarine, coffee, long life bakery product, male cosmetics, shopping bags]
+
+[Till 0] [Queue Size] 110
+[Till 1] [Queue Size] 110
+[Till 2] [Queue Size] 109
+[CUSTOMER] 329 [BASKET] [beverages, rolls/buns, soda]
+
+[Till 0] [Queue Size] 110
+[Till 1] [Queue Size] 110
+[Till 2] [Queue Size] 110
+[CUSTOMER] 330 [BASKET] [berries, whole milk, whipped/sour cream, beverages, fruit/vegetable juice, newspapers]
+
+[Till 0] [Queue Size] 111
+[Till 1] [Queue Size] 110
+[Till 2] [Queue Size] 110
+[CUSTOMER] 331 [BASKET] [dish cleaner]
+
+[Till 0] [Queue Size] 111
+[Till 1] [Queue Size] 111
+[Till 2] [Queue Size] 110
+[CUSTOMER] 332 [BASKET] [chicken, packaged fruit/vegetables, whole milk, curd, whipped/sour cream, frozen vegetables, frozen dessert, rolls/buns, white bread, brown bread, margarine, soda, long life bakery product, specialty chocolate, candy]
+
+[Till 0] [Queue Size] 111
+[Till 1] [Queue Size] 111
+[Till 2] [Queue Size] 111
+[CUSTOMER] 333 [BASKET] [long life bakery product, candy]
+
+[Till 0] [Queue Size] 112
+[Till 1] [Queue Size] 111
+[Till 2] [Queue Size] 111
+[CUSTOMER] 334 [BASKET] [other vegetables]
+
+[Till 0] [Queue Size] 112
+[Till 1] [Queue Size] 112
+[Till 2] [Queue Size] 111
+[CUSTOMER] 335 [BASKET] [sausage, pork, hamburger meat, citrus fruit, other vegetables, whole milk, soft cheese, domestic eggs, rolls/buns, sugar, cat food, chocolate]
+
+[Till 0] [Queue Size] 112
+[Till 1] [Queue Size] 112
+[Till 2] [Queue Size] 112
+[CUSTOMER] 336 [BASKET] [soda]
+
+[Till 0] [Queue Size] 113
+[Till 1] [Queue Size] 112
+[Till 2] [Queue Size] 112
+[CUSTOMER] 337 [BASKET] [other vegetables, frozen vegetables, frozen fish, rolls/buns, pickled vegetables]
+
+[Till 0] [Queue Size] 113
+[Till 1] [Queue Size] 113
+[Till 2] [Queue Size] 112
+[CUSTOMER] 338 [BASKET] [bottled beer, liquor]
+
+[Till 0] [Queue Size] 113
+[Till 1] [Queue Size] 113
+[Till 2] [Queue Size] 113
+[CUSTOMER] 339 [BASKET] [rolls/buns]
+
+[Till 0] [Queue Size] 114
+[Till 1] [Queue Size] 113
+[Till 2] [Queue Size] 113
+[CUSTOMER] 340 [BASKET] [finished products, other vegetables, whole milk, whipped/sour cream, margarine, cereals, soda, salty snack]
+
+[Till 0] [Queue Size] 114
+[Till 1] [Queue Size] 114
+[Till 2] [Queue Size] 113
+[CUSTOMER] 341 [BASKET] [ham, turkey, tropical fruit, whole milk, butter, frozen meals, pastry, roll products , semi-finished bread, cat food, soda, waffles, cake bar, specialty chocolate, kitchen towels, shopping bags]
+
+[Till 0] [Queue Size] 114
+[Till 1] [Queue Size] 114
+[Till 2] [Queue Size] 114
+[CUSTOMER] 342 [BASKET] [salty snack]
+
+[Till 0] [Queue Size] 115
+[Till 1] [Queue Size] 114
+[Till 2] [Queue Size] 114
+[CUSTOMER] 343 [BASKET] [liver loaf, pork, citrus fruit, other vegetables, yogurt, misc. beverages]
+
+[Till 0] [Queue Size] 115
+[Till 1] [Queue Size] 115
+[Till 2] [Queue Size] 114
+[CUSTOMER] 344 [BASKET] [sausage, meat, whole milk, curd, dessert, yogurt, brown bread, dental care, male cosmetics]
+
+[Till 0] [Queue Size] 115
+[Till 1] [Queue Size] 115
+[Till 2] [Queue Size] 115
+[CUSTOMER] 345 [BASKET] [citrus fruit]
+
+[Till 0] [Queue Size] 116
+[Till 1] [Queue Size] 115
+[Till 2] [Queue Size] 115
+[CUSTOMER] 346 [BASKET] [ham, whole milk, white bread]
+
+[Till 0] [Queue Size] 116
+[Till 1] [Queue Size] 116
+[Till 2] [Queue Size] 115
+[CUSTOMER] 347 [BASKET] [whole milk, cream cheese , newspapers]
+
+[Till 0] [Queue Size] 116
+[Till 1] [Queue Size] 116
+[Till 2] [Queue Size] 116
+[CUSTOMER] 348 [BASKET] [tropical fruit]
+
+[Till 0] [Queue Size] 117
+[Till 1] [Queue Size] 116
+[Till 2] [Queue Size] 116
+[CUSTOMER] 349 [BASKET] [berries, butter, domestic eggs, soda, red/blush wine]
+
+[Till 0] [Queue Size] 117
+[Till 1] [Queue Size] 117
+[Till 2] [Queue Size] 116
+[CUSTOMER] 350 [BASKET] [bottled water]
+
+[Till 0] [Queue Size] 117
+[Till 1] [Queue Size] 117
+[Till 2] [Queue Size] 117
+[CUSTOMER] 351 [BASKET] [canned beer]
+
+[Till 0] [Queue Size] 118
+[Till 1] [Queue Size] 117
+[Till 2] [Queue Size] 117
+[CUSTOMER] 352 [BASKET] [other vegetables, white bread, newspapers]
+
+[Till 0] [Queue Size] 118
+[Till 1] [Queue Size] 118
+[Till 2] [Queue Size] 117
+[CUSTOMER] 353 [BASKET] [sausage, pork, hard cheese, rolls/buns, pickled vegetables, dish cleaner]
+
+[Till 0] [Queue Size] 118
+[Till 1] [Queue Size] 118
+[Till 2] [Queue Size] 118
+[CUSTOMER] 354 [BASKET] [salty snack, candy]
+
+[Till 0] [Queue Size] 119
+[Till 1] [Queue Size] 118
+[Till 2] [Queue Size] 118
+[CUSTOMER] 355 [BASKET] [bottled water, long life bakery product]
+
+[Till 0] [Queue Size] 119
+[Till 1] [Queue Size] 119
+[Till 2] [Queue Size] 118
+[CUSTOMER] 356 [BASKET] [whole milk, curd, baking powder]
+
+[Till 0] [Queue Size] 119
+[Till 1] [Queue Size] 119
+[Till 2] [Queue Size] 119
+[CUSTOMER] 357 [BASKET] [butter milk, coffee]
+
+[Till 0] [Queue Size] 120
+[Till 1] [Queue Size] 119
+[Till 2] [Queue Size] 119
+[CUSTOMER] 358 [BASKET] [pork, citrus fruit, other vegetables, dessert, yogurt]
+
+[Till 0] [Queue Size] 120
+[Till 1] [Queue Size] 120
+[Till 2] [Queue Size] 119
+[CUSTOMER] 359 [BASKET] [sausage, citrus fruit, whole milk, cream cheese , processed cheese, frozen vegetables, rolls/buns, pastry, fruit/vegetable juice, chewing gum]
+
+[Till 0] [Queue Size] 120
+[Till 1] [Queue Size] 120
+[Till 2] [Queue Size] 120
+[CUSTOMER] 360 [BASKET] [canned beer]
+
+[Till 0] [Queue Size] 121
+[Till 1] [Queue Size] 120
+[Till 2] [Queue Size] 120
+[CUSTOMER] 361 [BASKET] [pork, specialty vegetables, bottled water, soda, bottled beer]
+
+[Till 0] [Queue Size] 121
+[Till 1] [Queue Size] 121
+[Till 2] [Queue Size] 120
+[CUSTOMER] 362 [BASKET] [pip fruit, other vegetables, whole milk, butter, whipped/sour cream, sliced cheese, pastry, hygiene articles, napkins]
+
+[Till 0] [Queue Size] 121
+[Till 1] [Queue Size] 121
+[Till 2] [Queue Size] 121
+[CUSTOMER] 363 [BASKET] [root vegetables, canned vegetables, soda, shopping bags]
+
+[Till 0] [Queue Size] 122
+[Till 1] [Queue Size] 121
+[Till 2] [Queue Size] 121
+[CUSTOMER] 364 [BASKET] [frankfurter, rolls/buns]
+
+[Till 0] [Queue Size] 122
+[Till 1] [Queue Size] 122
+[Till 2] [Queue Size] 121
+[CUSTOMER] 365 [BASKET] [pork, other vegetables, pot plants]
+
+[Till 0] [Queue Size] 122
+[Till 1] [Queue Size] 122
+[Till 2] [Queue Size] 122
+[CUSTOMER] 366 [BASKET] [meat, hamburger meat, brown bread]
+
+[Till 0] [Queue Size] 123
+[Till 1] [Queue Size] 122
+[Till 2] [Queue Size] 122
+[CUSTOMER] 367 [BASKET] [other vegetables, whole milk, rolls/buns, sugar]
+
+[Till 0] [Queue Size] 123
+[Till 1] [Queue Size] 123
+[Till 2] [Queue Size] 122
+[CUSTOMER] 368 [BASKET] [meat, citrus fruit, pip fruit, root vegetables, bottled water]
+
+[Till 0] [Queue Size] 123
+[Till 1] [Queue Size] 123
+[Till 2] [Queue Size] 123
+[CUSTOMER] 369 [BASKET] [sausage, rolls/buns, shopping bags]
+
+[Till 0] [Queue Size] 124
+[Till 1] [Queue Size] 123
+[Till 2] [Queue Size] 123
+[CUSTOMER] 370 [BASKET] [citrus fruit, grapes, curd, bottled water, waffles]
+
+[Till 0] [Queue Size] 124
+[Till 1] [Queue Size] 124
+[Till 2] [Queue Size] 123
+[CUSTOMER] 371 [BASKET] [canned beer]
+
+[Till 0] [Queue Size] 124
+[Till 1] [Queue Size] 124
+[Till 2] [Queue Size] 124
+[CUSTOMER] 372 [BASKET] [sausage, tropical fruit, berries, whole milk, butter, dessert, pastry, soda, fruit/vegetable juice, long life bakery product, chewing gum, hygiene articles]
+
+[Till 0] [Queue Size] 125
+[Till 1] [Queue Size] 124
+[Till 2] [Queue Size] 124
+[CUSTOMER] 373 [BASKET] [tropical fruit, pastry, canned beer, chocolate]
+
+[Till 0] [Queue Size] 125
+[Till 1] [Queue Size] 125
+[Till 2] [Queue Size] 124
+[CUSTOMER] 374 [BASKET] [citrus fruit, oil, misc. beverages]
+
+[Till 0] [Queue Size] 125
+[Till 1] [Queue Size] 125
+[Till 2] [Queue Size] 125
+[CUSTOMER] 375 [BASKET] [rolls/buns, photo/film]
+
+[Till 0] [Queue Size] 126
+[Till 1] [Queue Size] 125
+[Till 2] [Queue Size] 125
+[CUSTOMER] 376 [BASKET] [bottled beer, canned beer]
+
+[Till 0] [Queue Size] 126
+[Till 1] [Queue Size] 126
+[Till 2] [Queue Size] 125
+[CUSTOMER] 377 [BASKET] [beef, root vegetables, whole milk, butter milk, yogurt, beverages, cream cheese , sweet spreads, soda, chocolate]
+
+[Till 0] [Queue Size] 126
+[Till 1] [Queue Size] 126
+[Till 2] [Queue Size] 126
+[CUSTOMER] 378 [BASKET] [whole milk, yogurt]
+
+[Till 0] [Queue Size] 127
+[Till 1] [Queue Size] 126
+[Till 2] [Queue Size] 126
+[CUSTOMER] 379 [BASKET] [grapes, root vegetables, other vegetables, yogurt, white bread]
+
+[Till 0] [Queue Size] 127
+[Till 1] [Queue Size] 127
+[Till 2] [Queue Size] 126
+[CUSTOMER] 380 [BASKET] [pork, other vegetables, pot plants]
+
+[Till 0] [Queue Size] 127
+[Till 1] [Queue Size] 127
+[Till 2] [Queue Size] 127
+[CUSTOMER] 381 [BASKET] [waffles]
+
+[Till 0] [Queue Size] 128
+[Till 1] [Queue Size] 127
+[Till 2] [Queue Size] 127
+[CUSTOMER] 382 [BASKET] [pip fruit]
+
+[Till 0] [Queue Size] 128
+[Till 1] [Queue Size] 128
+[Till 2] [Queue Size] 127
+[CUSTOMER] 383 [BASKET] [pork, root vegetables, onions, other vegetables, yogurt, domestic eggs]
+
+[Till 0] [Queue Size] 128
+[Till 1] [Queue Size] 128
+[Till 2] [Queue Size] 128
+[CUSTOMER] 384 [BASKET] [citrus fruit, other vegetables, yogurt, spread cheese, rolls/buns, soda, chocolate, newspapers]
+
+[Till 0] [Queue Size] 129
+[Till 1] [Queue Size] 128
+[Till 2] [Queue Size] 128
+[CUSTOMER] 385 [BASKET] [ice cream, brown bread]
+
+[Till 0] [Queue Size] 129
+[Till 1] [Queue Size] 129
+[Till 2] [Queue Size] 128
+[CUSTOMER] 386 [BASKET] [coffee, shopping bags]
+
+[Till 0] [Queue Size] 129
+[Till 1] [Queue Size] 129
+[Till 2] [Queue Size] 129
+[CUSTOMER] 387 [BASKET] [sausage, pip fruit, berries, whole milk, butter, whipped/sour cream]
+
+[Till 0] [Queue Size] 130
+[Till 1] [Queue Size] 129
+[Till 2] [Queue Size] 129
+[CUSTOMER] 388 [BASKET] [pastry, soda, chocolate]
+
+[Till 0] [Queue Size] 130
+[Till 1] [Queue Size] 130
+[Till 2] [Queue Size] 129
+[CUSTOMER] 389 [BASKET] [butter milk]
+
+[Till 0] [Queue Size] 130
+[Till 1] [Queue Size] 130
+[Till 2] [Queue Size] 130
+[CUSTOMER] 390 [BASKET] [berries, whipped/sour cream, cereals, waffles, shopping bags]
+
+[Till 0] [Queue Size] 131
+[Till 1] [Queue Size] 130
+[Till 2] [Queue Size] 130
+[CUSTOMER] 391 [BASKET] [sausage, other vegetables, whole milk, curd, hard cheese, soda, candy, newspapers]
+
+[Till 0] [Queue Size] 131
+[Till 1] [Queue Size] 131
+[Till 2] [Queue Size] 130
+[CUSTOMER] 392 [BASKET] [canned beer]
+
+[Till 0] [Queue Size] 131
+[Till 1] [Queue Size] 131
+[Till 2] [Queue Size] 131
+[CUSTOMER] 393 [BASKET] [citrus fruit, other vegetables, UHT-milk, rolls/buns, flour]
+
+[Till 0] [Queue Size] 132
+[Till 1] [Queue Size] 131
+[Till 2] [Queue Size] 131
+[CUSTOMER] 394 [BASKET] [beef, root vegetables, other vegetables, margarine, salty snack, waffles, specialty chocolate, kitchen towels, newspapers]
+
+[Till 0] [Queue Size] 132
+[Till 1] [Queue Size] 132
+[Till 2] [Queue Size] 131
+[CUSTOMER] 395 [BASKET] [chicken, tropical fruit, pip fruit, root vegetables, herbs, other vegetables, dessert, yogurt, whipped/sour cream, beverages, brown bread, cat food, shopping bags]
+
+[Till 0] [Queue Size] 132
+[Till 1] [Queue Size] 132
+[Till 2] [Queue Size] 132
+[CUSTOMER] 396 [BASKET] [butter, ice cream, margarine, soda]
+
+[Till 0] [Queue Size] 133
+[Till 1] [Queue Size] 132
+[Till 2] [Queue Size] 132
+[CUSTOMER] 397 [BASKET] [sausage, other vegetables, dessert, domestic eggs, pastry, napkins]
+
+[Till 0] [Queue Size] 133
+[Till 1] [Queue Size] 133
+[Till 2] [Queue Size] 132
+[CUSTOMER] 398 [BASKET] [newspapers]
+
+[Till 0] [Queue Size] 133
+[Till 1] [Queue Size] 133
+[Till 2] [Queue Size] 133
+[CUSTOMER] 399 [BASKET] [frankfurter, rolls/buns]
+
+[Till 0] [Queue Size] 134
+[Till 1] [Queue Size] 133
+[Till 2] [Queue Size] 133
+[CUSTOMER] 400 [BASKET] [pork, yogurt, UHT-milk, salty snack]
+
+[Till 0] [Queue Size] 134
+[Till 1] [Queue Size] 134
+[Till 2] [Queue Size] 133
+[CUSTOMER] 401 [BASKET] [pork, frozen fish, domestic eggs, sugar, misc. beverages, dental care, hygiene articles, shopping bags]
+
+[Till 0] [Queue Size] 134
+[Till 1] [Queue Size] 134
+[Till 2] [Queue Size] 134
+[CUSTOMER] 402 [BASKET] [oil]
+
+[Till 0] [Queue Size] 135
+[Till 1] [Queue Size] 134
+[Till 2] [Queue Size] 134
+[CUSTOMER] 403 [BASKET] [whole milk, butter, sugar]
+
+[Till 0] [Queue Size] 135
+[Till 1] [Queue Size] 135
+[Till 2] [Queue Size] 134
+[CUSTOMER] 404 [BASKET] [whole milk, rolls/buns, baking powder, chocolate]
+
+[Till 0] [Queue Size] 135
+[Till 1] [Queue Size] 135
+[Till 2] [Queue Size] 135
+[CUSTOMER] 405 [BASKET] [bottled water]
+
+[Till 0] [Queue Size] 136
+[Till 1] [Queue Size] 135
+[Till 2] [Queue Size] 135
+[CUSTOMER] 406 [BASKET] [root vegetables, yogurt]
+
+[Till 0] [Queue Size] 136
+[Till 1] [Queue Size] 136
+[Till 2] [Queue Size] 135
+[CUSTOMER] 407 [BASKET] [pork, whole milk, cream cheese , frozen fish, brown bread, sauces]
+
+[Till 0] [Queue Size] 136
+[Till 1] [Queue Size] 136
+[Till 2] [Queue Size] 136
+[CUSTOMER] 408 [BASKET] [frankfurter, butter, brown bread]
+
+[Till 0] [Queue Size] 137
+[Till 1] [Queue Size] 136
+[Till 2] [Queue Size] 136
+[CUSTOMER] 409 [BASKET] [citrus fruit]
+
+[Till 0] [Queue Size] 137
+[Till 1] [Queue Size] 137
+[Till 2] [Queue Size] 136
+[CUSTOMER] 410 [BASKET] [onions, whole milk, curd, soda]
+
+[Till 0] [Queue Size] 137
+[Till 1] [Queue Size] 137
+[Till 2] [Queue Size] 137
+[CUSTOMER] 411 [BASKET] [sausage, soft cheese, mayonnaise, ice cream]
+
+[Till 0] [Queue Size] 138
+[Till 1] [Queue Size] 137
+[Till 2] [Queue Size] 137
+[CUSTOMER] 412 [BASKET] [rolls/buns, coffee, instant coffee, salty snack, specialty chocolate]
+
+[Till 0] [Queue Size] 138
+[Till 1] [Queue Size] 138
+[Till 2] [Queue Size] 137
+[CUSTOMER] 413 [BASKET] [canned beer]
+
+[Till 0] [Queue Size] 138
+[Till 1] [Queue Size] 138
+[Till 2] [Queue Size] 138
+[CUSTOMER] 414 [BASKET] [spread cheese, rolls/buns, bottled water, newspapers]
+
+[Till 0] [Queue Size] 139
+[Till 1] [Queue Size] 138
+[Till 2] [Queue Size] 138
+[CUSTOMER] 415 [BASKET] [baking powder]
+
+[Till 0] [Queue Size] 139
+[Till 1] [Queue Size] 139
+[Till 2] [Queue Size] 138
+[CUSTOMER] 416 [BASKET] [canned beer]
+
+[Till 0] [Queue Size] 139
+[Till 1] [Queue Size] 139
+[Till 2] [Queue Size] 139
+[CUSTOMER] 417 [BASKET] [dessert, cream cheese , mayonnaise, domestic eggs, pastry, canned fish, chocolate, cleaner, female sanitary products]
+
+[Till 0] [Queue Size] 140
+[Till 1] [Queue Size] 139
+[Till 2] [Queue Size] 139
+[CUSTOMER] 418 [BASKET] [rolls/buns, pasta, bottled beer]
+
+[Till 0] [Queue Size] 140
+[Till 1] [Queue Size] 140
+[Till 2] [Queue Size] 139
+[CUSTOMER] 419 [BASKET] [yogurt]
+
+[Till 0] [Queue Size] 140
+[Till 1] [Queue Size] 140
+[Till 2] [Queue Size] 140
+[CUSTOMER] 420 [BASKET] [salty snack]
+
+[Till 0] [Queue Size] 141
+[Till 1] [Queue Size] 140
+[Till 2] [Queue Size] 140
+[CUSTOMER] 421 [BASKET] [other vegetables, rolls/buns, white wine]
+
+[Till 0] [Queue Size] 141
+[Till 1] [Queue Size] 141
+[Till 2] [Queue Size] 140
+[CUSTOMER] 422 [BASKET] [tropical fruit, frozen meals, frozen fish, salty snack, long life bakery product, chocolate, specialty chocolate]
+
+[Till 0] [Queue Size] 141
+[Till 1] [Queue Size] 141
+[Till 2] [Queue Size] 141
+[CUSTOMER] 423 [BASKET] [root vegetables, whole milk, butter, yogurt, whipped/sour cream, soft cheese, cream cheese , domestic eggs, brown bread, jam, misc. beverages, fruit/vegetable juice, napkins, pot plants]
+
+[Till 0] [Queue Size] 142
+[Till 1] [Queue Size] 141
+[Till 2] [Queue Size] 141
+[CUSTOMER] 424 [BASKET] [rolls/buns]
+
+[Till 0] [Queue Size] 142
+[Till 1] [Queue Size] 142
+[Till 2] [Queue Size] 141
+[CUSTOMER] 425 [BASKET] [bottled beer]
+
+[Till 0] [Queue Size] 142
+[Till 1] [Queue Size] 142
+[Till 2] [Queue Size] 142
+[CUSTOMER] 426 [BASKET] [meat, citrus fruit, other vegetables, canned beer]
+
+[Till 0] [Queue Size] 143
+[Till 1] [Queue Size] 142
+[Till 2] [Queue Size] 142
+[CUSTOMER] 427 [BASKET] [bottled water, long life bakery product]
+
+[Till 0] [Queue Size] 143
+[Till 1] [Queue Size] 143
+[Till 2] [Queue Size] 142
+[CUSTOMER] 428 [BASKET] [butter, waffles, chocolate]
+
+[Till 0] [Queue Size] 143
+[Till 1] [Queue Size] 143
+[Till 2] [Queue Size] 143
+[CUSTOMER] 429 [BASKET] [liquor, napkins]
+
+[Till 0] [Queue Size] 144
+[Till 1] [Queue Size] 143
+[Till 2] [Queue Size] 143
+[CUSTOMER] 430 [BASKET] [pork, beef]
+
+[Till 0] [Queue Size] 144
+[Till 1] [Queue Size] 144
+[Till 2] [Queue Size] 143
+[CUSTOMER] 431 [BASKET] [sausage, brown bread, roll products , coffee, dish cleaner]
+
+[Till 0] [Queue Size] 144
+[Till 1] [Queue Size] 144
+[Till 2] [Queue Size] 144
+[CUSTOMER] 432 [BASKET] [chicken, whole milk, rolls/buns, pasta]
+
+[Till 0] [Queue Size] 145
+[Till 1] [Queue Size] 144
+[Till 2] [Queue Size] 144
+[CUSTOMER] 433 [BASKET] [whole milk, bottled beer]
+
+[Till 0] [Queue Size] 145
+[Till 1] [Queue Size] 145
+[Till 2] [Queue Size] 144
+[CUSTOMER] 434 [BASKET] [brown bread, pastry, long life bakery product]
+
+[Till 0] [Queue Size] 145
+[Till 1] [Queue Size] 145
+[Till 2] [Queue Size] 145
+[CUSTOMER] 435 [BASKET] [citrus fruit, herbs, other vegetables, curd]
+
+[Till 0] [Queue Size] 146
+[Till 1] [Queue Size] 145
+[Till 2] [Queue Size] 145
+[CUSTOMER] 436 [BASKET] [pork, pip fruit, other vegetables, whole milk, yogurt, frozen fish, flour, sugar, baking powder, long life bakery product, chewing gum]
+
+[Till 0] [Queue Size] 146
+[Till 1] [Queue Size] 146
+[Till 2] [Queue Size] 145
+[CUSTOMER] 437 [BASKET] [sausage, hamburger meat, other vegetables, yogurt, sliced cheese, brown bread, sugar, fruit/vegetable juice, canned beer, cleaner, bathroom cleaner, napkins, newspapers]
+
+[Till 0] [Queue Size] 146
+[Till 1] [Queue Size] 146
+[Till 2] [Queue Size] 146
+[CUSTOMER] 438 [BASKET] [soda]
+
+[Till 0] [Queue Size] 147
+[Till 1] [Queue Size] 146
+[Till 2] [Queue Size] 146
+[CUSTOMER] 439 [BASKET] [other vegetables]
+
+[Till 0] [Queue Size] 147
+[Till 1] [Queue Size] 147
+[Till 2] [Queue Size] 146
+[CUSTOMER] 440 [BASKET] [tropical fruit, root vegetables, other vegetables, frozen dessert, margarine]
+
+[Till 0] [Queue Size] 147
+[Till 1] [Queue Size] 147
+[Till 2] [Queue Size] 147
+[CUSTOMER] 441 [BASKET] [finished products, citrus fruit, yogurt, pastry, soda, waffles, shopping bags]
+
+[Till 0] [Queue Size] 148
+[Till 1] [Queue Size] 147
+[Till 2] [Queue Size] 147
+[CUSTOMER] 442 [BASKET] [whole milk, curd, butter milk, beverages, tidbits, long life bakery product, waffles, dental care]
+
+[Till 0] [Queue Size] 148
+[Till 1] [Queue Size] 148
+[Till 2] [Queue Size] 147
+[CUSTOMER] 443 [BASKET] [citrus fruit, tropical fruit, pip fruit, other vegetables, yogurt, UHT-milk, cream cheese , fruit/vegetable juice, hygiene articles, pot plants]
+
+[Till 0] [Queue Size] 148
+[Till 1] [Queue Size] 148
+[Till 2] [Queue Size] 148
+[CUSTOMER] 444 [BASKET] [frozen meals, rolls/buns, bottled beer]
+
+[Till 0] [Queue Size] 149
+[Till 1] [Queue Size] 148
+[Till 2] [Queue Size] 148
+[CUSTOMER] 445 [BASKET] [whole milk, yogurt, hard cheese, rolls/buns, bottled water]
+
+[Till 0] [Queue Size] 149
+[Till 1] [Queue Size] 149
+[Till 2] [Queue Size] 148
+[CUSTOMER] 446 [BASKET] [bottled water, bottled beer]
+
+[Till 0] [Queue Size] 149
+[Till 1] [Queue Size] 149
+[Till 2] [Queue Size] 149
+[CUSTOMER] 447 [BASKET] [rolls/buns, pastry, napkins, newspapers]
+
+[Till 0] [Queue Size] 150
+[Till 1] [Queue Size] 149
+[Till 2] [Queue Size] 149
+[CUSTOMER] 448 [BASKET] [pip fruit, other vegetables, whole milk]
+
+[Till 0] [Queue Size] 150
+[Till 1] [Queue Size] 150
+[Till 2] [Queue Size] 149
+[CUSTOMER] 449 [BASKET] [canned beer]
+
+[Till 0] [Queue Size] 150
+[Till 1] [Queue Size] 150
+[Till 2] [Queue Size] 150
+[CUSTOMER] 450 [BASKET] [hamburger meat, root vegetables, other vegetables, whole milk, rolls/buns]
+
+[Till 0] [Queue Size] 151
+[Till 1] [Queue Size] 150
+[Till 2] [Queue Size] 150
+[CUSTOMER] 451 [BASKET] [meat, rolls/buns, soda, specialty bar]
+
+[Till 0] [Queue Size] 151
+[Till 1] [Queue Size] 151
+[Till 2] [Queue Size] 150
+[CUSTOMER] 452 [BASKET] [coffee]
+
+[Till 0] [Queue Size] 151
+[Till 1] [Queue Size] 151
+[Till 2] [Queue Size] 151
+[CUSTOMER] 453 [BASKET] [sausage, ham, sliced cheese, frozen fish, rolls/buns, margarine, mustard]
+
+[Till 0] [Queue Size] 152
+[Till 1] [Queue Size] 151
+[Till 2] [Queue Size] 151
+[CUSTOMER] 454 [BASKET] [hamburger meat, tropical fruit, root vegetables, whole milk, frozen meals, rolls/buns, pasta, waffles]
+
+[Till 0] [Queue Size] 152
+[Till 1] [Queue Size] 152
+[Till 2] [Queue Size] 151
+[CUSTOMER] 455 [BASKET] [ham, other vegetables, whole milk, dessert, yogurt, pasta, oil, canned fish, coffee, soda, shopping bags]
+
+[Till 0] [Queue Size] 152
+[Till 1] [Queue Size] 152
+[Till 2] [Queue Size] 152
+[CUSTOMER] 456 [BASKET] [brown bread, bottled water]
+
+[Till 0] [Queue Size] 153
+[Till 1] [Queue Size] 152
+[Till 2] [Queue Size] 152
+[CUSTOMER] 457 [BASKET] [canned beer]
+
+[Till 0] [Queue Size] 153
+[Till 1] [Queue Size] 153
+[Till 2] [Queue Size] 152
+[CUSTOMER] 458 [BASKET] [berries, whipped/sour cream, cake bar]
+
+[Till 0] [Queue Size] 153
+[Till 1] [Queue Size] 153
+[Till 2] [Queue Size] 153
+[CUSTOMER] 459 [BASKET] [sausage, tropical fruit, root vegetables, other vegetables, curd, yogurt, sliced cheese, cream cheese , specialty cheese, frozen vegetables, domestic eggs, bottled water]
+
+[Till 0] [Queue Size] 154
+[Till 1] [Queue Size] 153
+[Till 2] [Queue Size] 153
+[CUSTOMER] 460 [BASKET] [sausage, meat, dessert, rolls/buns, instant coffee, soda, canned beer]
+
+[Till 0] [Queue Size] 154
+[Till 1] [Queue Size] 154
+[Till 2] [Queue Size] 153
+[CUSTOMER] 461 [BASKET] [beverages, soft cheese, rolls/buns, sugar, misc. beverages, candy]
+
+[Till 0] [Queue Size] 154
+[Till 1] [Queue Size] 154
+[Till 2] [Queue Size] 154
+[CUSTOMER] 462 [BASKET] [frankfurter, canned beer]
+
+[Till 0] [Queue Size] 155
+[Till 1] [Queue Size] 154
+[Till 2] [Queue Size] 154
+[CUSTOMER] 463 [BASKET] [pastry, instant coffee]
+
+[Till 0] [Queue Size] 155
+[Till 1] [Queue Size] 155
+[Till 2] [Queue Size] 154
+[CUSTOMER] 464 [BASKET] [baking powder, soda, shopping bags]
+
+[Till 0] [Queue Size] 155
+[Till 1] [Queue Size] 155
+[Till 2] [Queue Size] 155
+[CUSTOMER] 465 [BASKET] [UHT-milk, cream cheese , coffee, bottled water]
+
+[Till 0] [Queue Size] 156
+[Till 1] [Queue Size] 155
+[Till 2] [Queue Size] 155
+[CUSTOMER] 466 [BASKET] [meat, pork, pip fruit, root vegetables, other vegetables, whole milk, hard cheese, white bread, pasta, margarine, ketchup, cocoa drinks, chocolate, cling film/bags]
+
+[Till 0] [Queue Size] 156
+[Till 1] [Queue Size] 156
+[Till 2] [Queue Size] 155
+[CUSTOMER] 467 [BASKET] [sausage, beef, citrus fruit, sweet spreads, coffee]
+
+[Till 0] [Queue Size] 156
+[Till 1] [Queue Size] 156
+[Till 2] [Queue Size] 156
+[CUSTOMER] 468 [BASKET] [beverages, soft cheese, rolls/buns, sugar, misc. beverages, candy]
+
+[Till 0] [Queue Size] 157
+[Till 1] [Queue Size] 156
+[Till 2] [Queue Size] 156
+[CUSTOMER] 469 [BASKET] [ham]
+
+[Till 0] [Queue Size] 157
+[Till 1] [Queue Size] 157
+[Till 2] [Queue Size] 156
+[CUSTOMER] 470 [BASKET] [tropical fruit, pastry, soda]
+
+[Till 0] [Queue Size] 157
+[Till 1] [Queue Size] 157
+[Till 2] [Queue Size] 157
+[CUSTOMER] 471 [BASKET] [berries, whole milk, frozen meals, frozen dessert, rolls/buns, soda, shopping bags]
+
+[Till 0] [Queue Size] 158
+[Till 1] [Queue Size] 157
+[Till 2] [Queue Size] 157
+[CUSTOMER] 472 [BASKET] [sausage, rolls/buns]
+
+[Till 0] [Queue Size] 158
+[Till 1] [Queue Size] 158
+[Till 2] [Queue Size] 157
+[CUSTOMER] 473 [BASKET] [bottled water, long life bakery product]
+
+[Till 0] [Queue Size] 158
+[Till 1] [Queue Size] 158
+[Till 2] [Queue Size] 158
+[CUSTOMER] 474 [BASKET] [curd, UHT-milk, spread cheese, pasta, Instant food products, soda, shopping bags]
+
+[Till 0] [Queue Size] 159
+[Till 1] [Queue Size] 158
+[Till 2] [Queue Size] 158
+[CUSTOMER] 475 [BASKET] [beverages, bottled water, misc. beverages]
+
+[Till 0] [Queue Size] 159
+[Till 1] [Queue Size] 159
+[Till 2] [Queue Size] 158
+[CUSTOMER] 476 [BASKET] [yogurt]
+
+[Till 0] [Queue Size] 159
+[Till 1] [Queue Size] 159
+[Till 2] [Queue Size] 159
+[CUSTOMER] 477 [BASKET] [canned beer]
+
+[Till 0] [Queue Size] 160
+[Till 1] [Queue Size] 159
+[Till 2] [Queue Size] 159
+[CUSTOMER] 478 [BASKET] [tropical fruit, other vegetables, waffles, napkins]
+
+[Till 0] [Queue Size] 160
+[Till 1] [Queue Size] 160
+[Till 2] [Queue Size] 159
+[CUSTOMER] 479 [BASKET] [whole milk, butter, yogurt, rolls/buns]
+
+[Till 0] [Queue Size] 160
+[Till 1] [Queue Size] 160
+[Till 2] [Queue Size] 160
+[CUSTOMER] 480 [BASKET] [whole milk]
+
+[Till 0] [Queue Size] 161
+[Till 1] [Queue Size] 160
+[Till 2] [Queue Size] 160
+[CUSTOMER] 481 [BASKET] [chewing gum, shopping bags]
+
+[Till 0] [Queue Size] 161
+[Till 1] [Queue Size] 161
+[Till 2] [Queue Size] 160
+[CUSTOMER] 482 [BASKET] [coffee]
+
+[Till 0] [Queue Size] 161
+[Till 1] [Queue Size] 161
+[Till 2] [Queue Size] 161
+[CUSTOMER] 483 [BASKET] [waffles]
+
+[Till 0] [Queue Size] 162
+[Till 1] [Queue Size] 161
+[Till 2] [Queue Size] 161
+[CUSTOMER] 484 [BASKET] [sausage, citrus fruit, whole milk, sliced cheese, frozen meals, white bread, chewing gum, photo/film]
+
+[Till 0] [Queue Size] 162
+[Till 1] [Queue Size] 162
+[Till 2] [Queue Size] 161
+[CUSTOMER] 485 [BASKET] [yogurt, rolls/buns]
+
+[Till 0] [Queue Size] 162
+[Till 1] [Queue Size] 162
+[Till 2] [Queue Size] 162
+[CUSTOMER] 486 [BASKET] [candy]
+
+[Till 0] [Queue Size] 163
+[Till 1] [Queue Size] 162
+[Till 2] [Queue Size] 162
+[CUSTOMER] 487 [BASKET] [beverages, pastry, long life bakery product, chocolate marshmallow]
+
+[Till 0] [Queue Size] 163
+[Till 1] [Queue Size] 163
+[Till 2] [Queue Size] 162
+[CUSTOMER] 488 [BASKET] [frankfurter, root vegetables, onions, other vegetables, butter, domestic eggs, pasta, canned beer]
+
+[Till 0] [Queue Size] 163
+[Till 1] [Queue Size] 163
+[Till 2] [Queue Size] 163
+[CUSTOMER] 489 [BASKET] [other vegetables, condensed milk, soda, newspapers]
+
+[Till 0] [Queue Size] 164
+[Till 1] [Queue Size] 163
+[Till 2] [Queue Size] 163
+[CUSTOMER] 490 [BASKET] [whole milk, curd, rolls/buns, pastry, pasta, margarine]
+
+[Till 0] [Queue Size] 164
+[Till 1] [Queue Size] 164
+[Till 2] [Queue Size] 163
+[CUSTOMER] 491 [BASKET] [sausage, ham, finished products, frozen meals, salty snack, long life bakery product, waffles, shopping bags]
+
+[Till 0] [Queue Size] 164
+[Till 1] [Queue Size] 164
+[Till 2] [Queue Size] 164
+[CUSTOMER] 492 [BASKET] [detergent, flower (seeds)]
+
+[Till 0] [Queue Size] 165
+[Till 1] [Queue Size] 164
+[Till 2] [Queue Size] 164
+[CUSTOMER] 493 [BASKET] [onions, whole milk, domestic eggs, sugar, hygiene articles, light bulbs]
+
+[Till 0] [Queue Size] 165
+[Till 1] [Queue Size] 165
+[Till 2] [Queue Size] 164
+[CUSTOMER] 494 [BASKET] [other vegetables, dessert, canned beer, chewing gum, flower (seeds)]
+
+[Till 0] [Queue Size] 165
+[Till 1] [Queue Size] 165
+[Till 2] [Queue Size] 165
+[CUSTOMER] 495 [BASKET] [tropical fruit, whole milk, beverages, white bread, pasta, shopping bags]
+
+[Till 0] [Queue Size] 166
+[Till 1] [Queue Size] 165
+[Till 2] [Queue Size] 165
+[CUSTOMER] 496 [BASKET] [salty snack]
+
+[Till 0] [Queue Size] 166
+[Till 1] [Queue Size] 166
+[Till 2] [Queue Size] 165
+[CUSTOMER] 497 [BASKET] [ham]
+
+[Till 0] [Queue Size] 166
+[Till 1] [Queue Size] 166
+[Till 2] [Queue Size] 166
+[CUSTOMER] 498 [BASKET] [whole milk, canned beer]
+
+[Till 0] [Queue Size] 167
+[Till 1] [Queue Size] 166
+[Till 2] [Queue Size] 166
+[CUSTOMER] 499 [BASKET] [pork, root vegetables, cream cheese , frozen fish, flour, sugar, decalcifier, shopping bags]
+
+[Till 0] [Queue Size] 167
+[Till 1] [Queue Size] 167
+[Till 2] [Queue Size] 166
+[CUSTOMER] 500 [BASKET] [coffee, bottled beer]
+
+[Till 0] [Queue Size] 167
+[Till 1] [Queue Size] 167
+[Till 2] [Queue Size] 167
+[CUSTOMER] 501 [BASKET] [beef, herbs, flour, cling film/bags, flower soil/fertilizer]
+
+[Till 0] [Queue Size] 168
+[Till 1] [Queue Size] 167
+[Till 2] [Queue Size] 167
+[CUSTOMER] 502 [BASKET] [root vegetables, other vegetables, canned fish, shopping bags]
+
+[Till 0] [Queue Size] 168
+[Till 1] [Queue Size] 168
+[Till 2] [Queue Size] 167
+[CUSTOMER] 503 [BASKET] [chicken, hamburger meat, pip fruit, onions, other vegetables, whole milk, butter, yogurt, whipped/sour cream, white bread, long life bakery product, chocolate]
+
+[Till 0] [Queue Size] 168
+[Till 1] [Queue Size] 168
+[Till 2] [Queue Size] 168
+[CUSTOMER] 504 [BASKET] [meat, other vegetables, packaged fruit/vegetables, cream cheese , margarine, bottled water, salty snack]
+
+[Till 0] [Queue Size] 169
+[Till 1] [Queue Size] 168
+[Till 2] [Queue Size] 168
+[CUSTOMER] 505 [BASKET] [rolls/buns, meat spreads]
+
+[Till 0] [Queue Size] 169
+[Till 1] [Queue Size] 169
+[Till 2] [Queue Size] 168
+[CUSTOMER] 506 [BASKET] [pork, tropical fruit, waffles, newspapers]
+
+[Till 0] [Queue Size] 169
+[Till 1] [Queue Size] 169
+[Till 2] [Queue Size] 169
+[CUSTOMER] 507 [BASKET] [bottled beer, brandy, specialty chocolate, skin care]
+
+[Till 0] [Queue Size] 170
+[Till 1] [Queue Size] 169
+[Till 2] [Queue Size] 169
+[CUSTOMER] 508 [BASKET] [curd, whipped/sour cream, flour, baking powder, newspapers]
+
+[Till 0] [Queue Size] 170
+[Till 1] [Queue Size] 170
+[Till 2] [Queue Size] 169
+[CUSTOMER] 509 [BASKET] [hamburger meat, onions, ice cream, misc. beverages, shopping bags]
+
+[Till 0] [Queue Size] 170
+[Till 1] [Queue Size] 170
+[Till 2] [Queue Size] 170
+[CUSTOMER] 510 [BASKET] [frankfurter, pork, beef, hamburger meat, other vegetables, whole milk, butter, curd, yogurt, whipped/sour cream, cream cheese , frozen vegetables, domestic eggs, rolls/buns, sugar, mustard, ketchup, meat spreads, canned fish, bottled beer, chewing gum, decalcifier, hygiene articles]
+
+[Till 0] [Queue Size] 171
+[Till 1] [Queue Size] 170
+[Till 2] [Queue Size] 170
+[CUSTOMER] 511 [BASKET] [pork, onions, other vegetables, butter, dessert, beverages, UHT-milk, specialty cheese, frozen vegetables, rolls/buns, coffee, shopping bags]
+
+[Till 0] [Queue Size] 171
+[Till 1] [Queue Size] 171
+[Till 2] [Queue Size] 170
+[CUSTOMER] 512 [BASKET] [grapes, berries, other vegetables, curd, sliced cheese, pastry, misc. beverages, salty snack, detergent, hygiene articles, napkins]
+
+[Till 0] [Queue Size] 171
+[Till 1] [Queue Size] 171
+[Till 2] [Queue Size] 171
+[CUSTOMER] 513 [BASKET] [tropical fruit, curd, bottled water, napkins]
+
+[Till 0] [Queue Size] 172
+[Till 1] [Queue Size] 171
+[Till 2] [Queue Size] 171
+[CUSTOMER] 514 [BASKET] [sausage, meat, dessert, rolls/buns, instant coffee, soda, canned beer]
+
+[Till 0] [Queue Size] 172
+[Till 1] [Queue Size] 172
+[Till 2] [Queue Size] 171
+[CUSTOMER] 515 [BASKET] [sausage, specialty cheese, misc. beverages, bottled beer]
+
+[Till 0] [Queue Size] 172
+[Till 1] [Queue Size] 172
+[Till 2] [Queue Size] 172
+[CUSTOMER] 516 [BASKET] [pork, frozen vegetables, oil]
+
+[Till 0] [Queue Size] 173
+[Till 1] [Queue Size] 172
+[Till 2] [Queue Size] 172
+[CUSTOMER] 517 [BASKET] [citrus fruit, root vegetables, packaged fruit/vegetables, whole milk, yogurt, cat food, bottled water, chocolate, napkins]
+
+[Till 0] [Queue Size] 173
+[Till 1] [Queue Size] 173
+[Till 2] [Queue Size] 172
+[CUSTOMER] 518 [BASKET] [pip fruit, sweet spreads, coffee, napkins, dishes]
+
+[Till 0] [Queue Size] 173
+[Till 1] [Queue Size] 173
+[Till 2] [Queue Size] 173
+[CUSTOMER] 519 [BASKET] [beef, specialty chocolate]
+
+[Till 0] [Queue Size] 174
+[Till 1] [Queue Size] 173
+[Till 2] [Queue Size] 173
+[CUSTOMER] 520 [BASKET] [bottled water, bottled beer, napkins]
+
+[Till 0] [Queue Size] 174
+[Till 1] [Queue Size] 174
+[Till 2] [Queue Size] 173
+[CUSTOMER] 521 [BASKET] [organic sausage, citrus fruit, whole milk, whipped/sour cream, hard cheese, rolls/buns, pastry, bottled beer, long life bakery product, detergent, napkins, house keeping products, candles]
+
+[Till 0] [Queue Size] 174
+[Till 1] [Queue Size] 174
+[Till 2] [Queue Size] 174
+[CUSTOMER] 522 [BASKET] [specialty chocolate]
+
+[Till 0] [Queue Size] 175
+[Till 1] [Queue Size] 174
+[Till 2] [Queue Size] 174
+[CUSTOMER] 523 [BASKET] [citrus fruit, tropical fruit, other vegetables, whole milk, curd, rolls/buns]
+
+[Till 0] [Queue Size] 175
+[Till 1] [Queue Size] 175
+[Till 2] [Queue Size] 174
+[CUSTOMER] 524 [BASKET] [bottled water, white wine]
+
+[Till 0] [Queue Size] 175
+[Till 1] [Queue Size] 175
+[Till 2] [Queue Size] 175
+[CUSTOMER] 525 [BASKET] [whole milk]
+
+[Till 0] [Queue Size] 176
+[Till 1] [Queue Size] 175
+[Till 2] [Queue Size] 175
+[CUSTOMER] 526 [BASKET] [whole milk]
+
+[Till 0] [Queue Size] 176
+[Till 1] [Queue Size] 176
+[Till 2] [Queue Size] 175
+[CUSTOMER] 527 [BASKET] [frankfurter, sausage, rolls/buns, soda, liquor (appetizer), specialty bar, shopping bags]
+
+[Till 0] [Queue Size] 176
+[Till 1] [Queue Size] 176
+[Till 2] [Queue Size] 176
+[CUSTOMER] 528 [BASKET] [root vegetables, whole milk, yogurt, rolls/buns]
+
+[Till 0] [Queue Size] 177
+[Till 1] [Queue Size] 176
+[Till 2] [Queue Size] 176
+[CUSTOMER] 529 [BASKET] [chewing gum, chocolate]
+
+[Till 0] [Queue Size] 177
+[Till 1] [Queue Size] 177
+[Till 2] [Queue Size] 176
+[CUSTOMER] 530 [BASKET] [whipped/sour cream, domestic eggs, candles]
+
+[Till 0] [Queue Size] 177
+[Till 1] [Queue Size] 177
+[Till 2] [Queue Size] 177
+[CUSTOMER] 531 [BASKET] [ham, pork, citrus fruit, tropical fruit, root vegetables, other vegetables, yogurt, frozen fish, fruit/vegetable juice, long life bakery product, female sanitary products]
+
+[Till 0] [Queue Size] 178
+[Till 1] [Queue Size] 177
+[Till 2] [Queue Size] 177
+[CUSTOMER] 532 [BASKET] [sausage, UHT-milk]
+
+[Till 0] [Queue Size] 178
+[Till 1] [Queue Size] 178
+[Till 2] [Queue Size] 177
+[CUSTOMER] 533 [BASKET] [whole milk, whipped/sour cream, rolls/buns, shopping bags]
+
+[Till 0] [Queue Size] 178
+[Till 1] [Queue Size] 178
+[Till 2] [Queue Size] 178
+[CUSTOMER] 534 [BASKET] [sausage, citrus fruit, other vegetables, whole milk, whipped/sour cream, sliced cheese, cream cheese , domestic eggs, rolls/buns, pastry, sugar, baking powder]
+
+[Till 0] [Queue Size] 179
+[Till 1] [Queue Size] 178
+[Till 2] [Queue Size] 178
+[CUSTOMER] 535 [BASKET] [pork, specialty vegetables, bottled water, soda, bottled beer]
+
+[Till 0] [Queue Size] 179
+[Till 1] [Queue Size] 179
+[Till 2] [Queue Size] 178
+[CUSTOMER] 536 [BASKET] [berries, whipped/sour cream, coffee, bottled water, soda, white wine, salty snack, hygiene articles]
+
+[Till 0] [Queue Size] 179
+[Till 1] [Queue Size] 179
+[Till 2] [Queue Size] 179
+[CUSTOMER] 537 [BASKET] [other vegetables]
+
+[Till 0] [Queue Size] 180
+[Till 1] [Queue Size] 179
+[Till 2] [Queue Size] 179
+[CUSTOMER] 538 [BASKET] [tropical fruit, pasta, bottled water]
+
+[Till 0] [Queue Size] 180
+[Till 1] [Queue Size] 180
+[Till 2] [Queue Size] 179
+[CUSTOMER] 539 [BASKET] [pip fruit, berries, whole milk, yogurt, hard cheese, frozen vegetables, popcorn]
+
+[Till 0] [Queue Size] 180
+[Till 1] [Queue Size] 180
+[Till 2] [Queue Size] 180
+[CUSTOMER] 540 [BASKET] [citrus fruit, tropical fruit, white bread, fruit/vegetable juice, napkins, shopping bags]
+
+[Till 0] [Queue Size] 181
+[Till 1] [Queue Size] 180
+[Till 2] [Queue Size] 180
+[CUSTOMER] 541 [BASKET] [whole milk, cream cheese , cereals, dog food]
+
+[Till 0] [Queue Size] 181
+[Till 1] [Queue Size] 181
+[Till 2] [Queue Size] 180
+[CUSTOMER] 542 [BASKET] [butter, yogurt, rolls/buns, soda]
+
+[Till 0] [Queue Size] 181
+[Till 1] [Queue Size] 181
+[Till 2] [Queue Size] 181
+[CUSTOMER] 543 [BASKET] [hard cheese, honey, candy]
+
+[Till 0] [Queue Size] 182
+[Till 1] [Queue Size] 181
+[Till 2] [Queue Size] 181
+[CUSTOMER] 544 [BASKET] [chicken, citrus fruit, cat food, white wine, shopping bags]
+
+[Till 0] [Queue Size] 182
+[Till 1] [Queue Size] 182
+[Till 2] [Queue Size] 181
+[CUSTOMER] 545 [BASKET] [rolls/buns, coffee]
+
+[Till 0] [Queue Size] 182
+[Till 1] [Queue Size] 182
+[Till 2] [Queue Size] 182
+[CUSTOMER] 546 [BASKET] [berries, salt, organic products, cat food, soda, bottled beer, female sanitary products]
+
+[Till 0] [Queue Size] 183
+[Till 1] [Queue Size] 182
+[Till 2] [Queue Size] 182
+[CUSTOMER] 547 [BASKET] [grapes, dessert, yogurt, beverages, frozen vegetables, canned beer]
+
+[Till 0] [Queue Size] 183
+[Till 1] [Queue Size] 183
+[Till 2] [Queue Size] 182
+[CUSTOMER] 548 [BASKET] [root vegetables, yogurt, beverages]
+
+[Till 0] [Queue Size] 183
+[Till 1] [Queue Size] 183
+[Till 2] [Queue Size] 183
+[CUSTOMER] 549 [BASKET] [rolls/buns, newspapers]
+
+[Till 0] [Queue Size] 184
+[Till 1] [Queue Size] 183
+[Till 2] [Queue Size] 183
+[CUSTOMER] 550 [BASKET] [chicken, packaged fruit/vegetables, frozen vegetables, frozen meals, misc. beverages, newspapers, flower (seeds)]
+
+[Till 0] [Queue Size] 184
+[Till 1] [Queue Size] 184
+[Till 2] [Queue Size] 183
+[CUSTOMER] 551 [BASKET] [tropical fruit, yogurt, coffee]
+
+[Till 0] [Queue Size] 184
+[Till 1] [Queue Size] 184
+[Till 2] [Queue Size] 184
+[CUSTOMER] 552 [BASKET] [frankfurter, whole milk]
+
+[Till 0] [Queue Size] 185
+[Till 1] [Queue Size] 184
+[Till 2] [Queue Size] 184
+[CUSTOMER] 553 [BASKET] [salty snack, newspapers, photo/film]
+
+[Till 0] [Queue Size] 185
+[Till 1] [Queue Size] 185
+[Till 2] [Queue Size] 184
+[CUSTOMER] 554 [BASKET] [beef, yogurt, spread cheese, margarine, salty snack]
+
+[Till 0] [Queue Size] 185
+[Till 1] [Queue Size] 185
+[Till 2] [Queue Size] 185
+[CUSTOMER] 555 [BASKET] [rolls/buns, brown bread]
+
+[Till 0] [Queue Size] 186
+[Till 1] [Queue Size] 185
+[Till 2] [Queue Size] 185
+[CUSTOMER] 556 [BASKET] [grapes, whole milk, ice cream, bottled water, chocolate]
+
+[Till 0] [Queue Size] 186
+[Till 1] [Queue Size] 186
+[Till 2] [Queue Size] 185
+[CUSTOMER] 557 [BASKET] [canned beer, liquor (appetizer)]
+
+[Till 0] [Queue Size] 186
+[Till 1] [Queue Size] 186
+[Till 2] [Queue Size] 186
+[CUSTOMER] 558 [BASKET] [rolls/buns, meat spreads]
+
+[Till 0] [Queue Size] 187
+[Till 1] [Queue Size] 186
+[Till 2] [Queue Size] 186
+[CUSTOMER] 559 [BASKET] [yogurt, white wine, red/blush wine]
+
+[Till 0] [Queue Size] 187
+[Till 1] [Queue Size] 187
+[Till 2] [Queue Size] 186
+[CUSTOMER] 560 [BASKET] [pork, whole milk, pasta, fruit/vegetable juice]
+
+[Till 0] [Queue Size] 187
+[Till 1] [Queue Size] 187
+[Till 2] [Queue Size] 187
+[CUSTOMER] 561 [BASKET] [frankfurter, root vegetables, whipped/sour cream, rolls/buns, roll products , salt, shopping bags]
+
+[Till 0] [Queue Size] 188
+[Till 1] [Queue Size] 187
+[Till 2] [Queue Size] 187
+[CUSTOMER] 562 [BASKET] [canned beer]
+
+[Till 0] [Queue Size] 188
+[Till 1] [Queue Size] 188
+[Till 2] [Queue Size] 187
+[CUSTOMER] 563 [BASKET] [newspapers]
+
+[Till 0] [Queue Size] 188
+[Till 1] [Queue Size] 188
+[Till 2] [Queue Size] 188
+[CUSTOMER] 564 [BASKET] [tropical fruit, whole milk, candles]
+
+[Till 0] [Queue Size] 189
+[Till 1] [Queue Size] 188
+[Till 2] [Queue Size] 188
+[CUSTOMER] 565 [BASKET] [pastry]
+
+[Till 0] [Queue Size] 189
+[Till 1] [Queue Size] 189
+[Till 2] [Queue Size] 188
+[CUSTOMER] 566 [BASKET] [grapes, other vegetables, soda, canned beer]
+
+[Till 0] [Queue Size] 189
+[Till 1] [Queue Size] 189
+[Till 2] [Queue Size] 189
+[CUSTOMER] 567 [BASKET] [flower soil/fertilizer]
+
+[Till 0] [Queue Size] 190
+[Till 1] [Queue Size] 189
+[Till 2] [Queue Size] 189
+[CUSTOMER] 568 [BASKET] [shopping bags]
+
+[Till 0] [Queue Size] 190
+[Till 1] [Queue Size] 190
+[Till 2] [Queue Size] 189
+[CUSTOMER] 569 [BASKET] [citrus fruit, tropical fruit, rolls/buns, soda, specialty bar]
+
+[Till 0] [Queue Size] 190
+[Till 1] [Queue Size] 190
+[Till 2] [Queue Size] 190
+[CUSTOMER] 570 [BASKET] [sausage, soda, bottled beer]
+
+[Till 0] [Queue Size] 191
+[Till 1] [Queue Size] 190
+[Till 2] [Queue Size] 190
+[CUSTOMER] 571 [BASKET] [seasonal products]
+
+[Till 0] [Queue Size] 191
+[Till 1] [Queue Size] 191
+[Till 2] [Queue Size] 190
+[CUSTOMER] 572 [BASKET] [brown bread, soda, fruit/vegetable juice, canned beer, newspapers, shopping bags]
+
+[Till 0] [Queue Size] 191
+[Till 1] [Queue Size] 191
+[Till 2] [Queue Size] 191
+[CUSTOMER] 573 [BASKET] [sausage, other vegetables, yogurt, mayonnaise, rolls/buns, bottled water, soda, canned beer, shopping bags]
+
+[Till 0] [Queue Size] 192
+[Till 1] [Queue Size] 191
+[Till 2] [Queue Size] 191
+[CUSTOMER] 574 [BASKET] [sausage, rolls/buns]
+
+[Till 0] [Queue Size] 192
+[Till 1] [Queue Size] 192
+[Till 2] [Queue Size] 191
+[CUSTOMER] 575 [BASKET] [newspapers]
+
+[Till 0] [Queue Size] 192
+[Till 1] [Queue Size] 192
+[Till 2] [Queue Size] 192
+[CUSTOMER] 576 [BASKET] [rolls/buns, soda, female sanitary products]
+
+[Till 0] [Queue Size] 193
+[Till 1] [Queue Size] 192
+[Till 2] [Queue Size] 192
+[CUSTOMER] 577 [BASKET] [tropical fruit, packaged fruit/vegetables, sliced cheese]
+
+[Till 0] [Queue Size] 193
+[Till 1] [Queue Size] 193
+[Till 2] [Queue Size] 192
+[CUSTOMER] 578 [BASKET] [pork, beef, berries, packaged fruit/vegetables, whole milk, mayonnaise, frozen fish, frozen potato products, oil, mustard, cat food, coffee, soda, chocolate, dish cleaner, napkins, newspapers]
+
+[Till 0] [Queue Size] 193
+[Till 1] [Queue Size] 193
+[Till 2] [Queue Size] 193
+[CUSTOMER] 579 [BASKET] [whole milk, baking powder, waffles, cleaner, newspapers]
+
+[Till 0] [Queue Size] 194
+[Till 1] [Queue Size] 193
+[Till 2] [Queue Size] 193
+[CUSTOMER] 580 [BASKET] [chicken, whole milk, salty snack, long life bakery product]
+
+[Till 0] [Queue Size] 194
+[Till 1] [Queue Size] 194
+[Till 2] [Queue Size] 193
+[CUSTOMER] 581 [BASKET] [onions, yogurt, oil]
+
+[Till 0] [Queue Size] 194
+[Till 1] [Queue Size] 194
+[Till 2] [Queue Size] 194
+[CUSTOMER] 582 [BASKET] [citrus fruit, pip fruit, other vegetables, UHT-milk, salty snack]
+
+[Till 0] [Queue Size] 195
+[Till 1] [Queue Size] 194
+[Till 2] [Queue Size] 194
+[CUSTOMER] 583 [BASKET] [pip fruit, margarine, soda, long life bakery product, waffles, specialty chocolate, detergent, dish cleaner, hygiene articles, house keeping products, flower soil/fertilizer]
+
+[Till 0] [Queue Size] 195
+[Till 1] [Queue Size] 195
+[Till 2] [Queue Size] 194
+[CUSTOMER] 584 [BASKET] [turkey, seasonal products]
+
+[Till 0] [Queue Size] 195
+[Till 1] [Queue Size] 195
+[Till 2] [Queue Size] 195
+[CUSTOMER] 585 [BASKET] [pip fruit, whole milk, yogurt]
+
+[Till 0] [Queue Size] 196
+[Till 1] [Queue Size] 195
+[Till 2] [Queue Size] 195
+[CUSTOMER] 586 [BASKET] [sausage, citrus fruit, whole milk, sliced cheese, frozen meals, white bread, chewing gum, photo/film]
+
+[Till 0] [Queue Size] 196
+[Till 1] [Queue Size] 196
+[Till 2] [Queue Size] 195
+[CUSTOMER] 587 [BASKET] [white bread, chocolate, shopping bags]
+
+[Till 0] [Queue Size] 196
+[Till 1] [Queue Size] 196
+[Till 2] [Queue Size] 196
+[CUSTOMER] 588 [BASKET] [chicken, beef, citrus fruit, tropical fruit, pip fruit, root vegetables, other vegetables, whole milk, rolls/buns]
+
+[Till 0] [Queue Size] 197
+[Till 1] [Queue Size] 196
+[Till 2] [Queue Size] 196
+[CUSTOMER] 589 [BASKET] [berries, onions, whipped/sour cream, brown bread, pasta, liquor, dishes]
+
+[Till 0] [Queue Size] 197
+[Till 1] [Queue Size] 197
+[Till 2] [Queue Size] 196
+[CUSTOMER] 590 [BASKET] [yogurt]
+
+[Till 0] [Queue Size] 197
+[Till 1] [Queue Size] 197
+[Till 2] [Queue Size] 197
+[CUSTOMER] 591 [BASKET] [beef, root vegetables, other vegetables, whole milk, domestic eggs, hygiene articles]
+
+[Till 0] [Queue Size] 198
+[Till 1] [Queue Size] 197
+[Till 2] [Queue Size] 197
+[CUSTOMER] 592 [BASKET] [pastry, margarine, candy]
+
+[Till 0] [Queue Size] 198
+[Till 1] [Queue Size] 198
+[Till 2] [Queue Size] 197
+[CUSTOMER] 593 [BASKET] [whipped/sour cream, beverages, liquor (appetizer)]
+
+[Till 0] [Queue Size] 198
+[Till 1] [Queue Size] 198
+[Till 2] [Queue Size] 198
+[CUSTOMER] 594 [BASKET] [meat, root vegetables, whipped/sour cream, beverages, cream cheese , waffles, dishes]
+
+[Till 0] [Queue Size] 199
+[Till 1] [Queue Size] 198
+[Till 2] [Queue Size] 198
+[CUSTOMER] 595 [BASKET] [sausage, rolls/buns, pastry, bottled water]
+
+[Till 0] [Queue Size] 199
+[Till 1] [Queue Size] 199
+[Till 2] [Queue Size] 198
+[CUSTOMER] 596 [BASKET] [shopping bags]
+
+[Till 0] [Queue Size] 199
+[Till 1] [Queue Size] 199
+[Till 2] [Queue Size] 199
+[CUSTOMER] 597 [BASKET] [whole milk, yogurt, pastry, sweet spreads, soda]
+
+[Till 0] [Queue Size] 200
+[Till 1] [Queue Size] 199
+[Till 2] [Queue Size] 199
+[CUSTOMER] 598 [BASKET] [coffee]
+
+[Till 0] [Queue Size] 200
+[Till 1] [Queue Size] 200
+[Till 2] [Queue Size] 199
+[CUSTOMER] 599 [BASKET] [rolls/buns, newspapers]
+
+[Till 0] [Queue Size] 200
+[Till 1] [Queue Size] 200
+[Till 2] [Queue Size] 200
+[CUSTOMER] 600 [BASKET] [soda, chocolate]
+
+[Till 0] [Queue Size] 201
+[Till 1] [Queue Size] 200
+[Till 2] [Queue Size] 200
+[CUSTOMER] 601 [BASKET] [hamburger meat, whole milk, coffee]
+
+[Till 0] [Queue Size] 201
+[Till 1] [Queue Size] 201
+[Till 2] [Queue Size] 200
+[CUSTOMER] 602 [BASKET] [canned vegetables, female sanitary products, shopping bags]
+
+[Till 0] [Queue Size] 201
+[Till 1] [Queue Size] 201
+[Till 2] [Queue Size] 201
+[CUSTOMER] 603 [BASKET] [pip fruit, other vegetables, curd, yogurt, whipped/sour cream, sugar, canned vegetables, fruit/vegetable juice]
+
+[Till 0] [Queue Size] 202
+[Till 1] [Queue Size] 201
+[Till 2] [Queue Size] 201
+[CUSTOMER] 604 [BASKET] [hamburger meat, packaged fruit/vegetables, whole milk, curd, yogurt, pastry]
+
+[Till 0] [Queue Size] 202
+[Till 1] [Queue Size] 202
+[Till 2] [Queue Size] 201
+[CUSTOMER] 605 [BASKET] [other vegetables, salt, sweet spreads]
+
+[Till 0] [Queue Size] 202
+[Till 1] [Queue Size] 202
+[Till 2] [Queue Size] 202
+[CUSTOMER] 606 [BASKET] [yogurt, sliced cheese, frozen meals]
+
+[Till 0] [Queue Size] 203
+[Till 1] [Queue Size] 202
+[Till 2] [Queue Size] 202
+[CUSTOMER] 607 [BASKET] [soda, chocolate]
+
+[Till 0] [Queue Size] 203
+[Till 1] [Queue Size] 203
+[Till 2] [Queue Size] 202
+[CUSTOMER] 608 [BASKET] [other vegetables, rolls/buns, sauces, soda, white wine, newspapers]
+
+[Till 0] [Queue Size] 203
+[Till 1] [Queue Size] 203
+[Till 2] [Queue Size] 203
+[CUSTOMER] 609 [BASKET] [root vegetables, other vegetables, whole milk, pet care, soda]
+
+[Till 0] [Queue Size] 204
+[Till 1] [Queue Size] 203
+[Till 2] [Queue Size] 203
+[CUSTOMER] 610 [BASKET] [beverages, soda]
+
+[Till 0] [Queue Size] 204
+[Till 1] [Queue Size] 204
+[Till 2] [Queue Size] 203
+[CUSTOMER] 611 [BASKET] [butter milk, rolls/buns]
+
+[Till 0] [Queue Size] 204
+[Till 1] [Queue Size] 204
+[Till 2] [Queue Size] 204
+[CUSTOMER] 612 [BASKET] [sausage, hamburger meat, other vegetables, rolls/buns, pasta, Instant food products, shopping bags]
+
+[Till 0] [Queue Size] 205
+[Till 1] [Queue Size] 204
+[Till 2] [Queue Size] 204
+[CUSTOMER] 613 [BASKET] [oil]
+
+[Till 0] [Queue Size] 205
+[Till 1] [Queue Size] 205
+[Till 2] [Queue Size] 204
+[CUSTOMER] 614 [BASKET] [pip fruit, onions, other vegetables, rolls/buns, Instant food products, tea, bottled water, salty snack]
+
+[Till 0] [Queue Size] 205
+[Till 1] [Queue Size] 205
+[Till 2] [Queue Size] 205
+[CUSTOMER] 615 [BASKET] [soda]
+
+[Till 0] [Queue Size] 206
+[Till 1] [Queue Size] 205
+[Till 2] [Queue Size] 205
+[CUSTOMER] 616 [BASKET] [frankfurter, tropical fruit, rolls/buns, brown bread, sugar]
+
+[Till 0] [Queue Size] 206
+[Till 1] [Queue Size] 206
+[Till 2] [Queue Size] 205
+[CUSTOMER] 617 [BASKET] [frankfurter, sausage, pip fruit, hard cheese, bottled water, seasonal products]
+
+[Till 0] [Queue Size] 206
+[Till 1] [Queue Size] 206
+[Till 2] [Queue Size] 206
+[CUSTOMER] 618 [BASKET] [meat, yogurt, cream cheese , brown bread, meat spreads, canned fish]
+
+[Till 0] [Queue Size] 207
+[Till 1] [Queue Size] 206
+[Till 2] [Queue Size] 206
+[CUSTOMER] 619 [BASKET] [frankfurter, grapes, other vegetables, butter milk, UHT-milk, brown bread, margarine, organic products, bottled water, soda]
+
+[Till 0] [Queue Size] 207
+[Till 1] [Queue Size] 207
+[Till 2] [Queue Size] 206
+
+Shutting down producer thread...
+Shutting down consumer thread...
+=============== Simulation Stopped ===============
