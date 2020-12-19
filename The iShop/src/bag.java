@@ -5,7 +5,7 @@ import java.io.FileReader;
 import java.io.IOException;
 
 class Bag<Item> implements Iterable<Item> {
-    private Node<Item> first;    // beginning of bag
+	private Node<Item> first;    // beginning of bag
     private int n;               // number of elements in bag
     private static String groceriesFile = "groceries.csv";
 	final static String delimiter = ",";

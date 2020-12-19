@@ -3,15 +3,15 @@ import java.util.concurrent.BlockingQueue;
 import java.util.concurrent.locks.ReentrantLock;
 
 class Consumer extends Thread {
-  private BlockingQueue<Customer> sharedQueue; 
-  private volatile boolean finished = false;
-  private Shop shop;
-  ReentrantLock lock = new ReentrantLock();
+	private BlockingQueue<Customer> sharedQueue; 
+	private volatile boolean finished = false;
+	private Shop shop;
+	ReentrantLock lock = new ReentrantLock();
   
-  public Consumer(Shop e, BlockingQueue<Customer> aQueue) {
-	  this.sharedQueue = aQueue;
-	  this.shop = e;
-   } 
+	public Consumer(Shop e, BlockingQueue<Customer> aQueue) {
+		this.sharedQueue = aQueue;
+		this.shop = e;
+	} 
   
   	@Override
 	public void run() { 
@@ -30,7 +30,7 @@ class Consumer extends Thread {
 			catch (InterruptedException | IOException e) {System.out.println("Shutting down consumer thread...");
 			finished = true;}
 		}
-  } 		
+  	} 		
 	
 	public synchronized void removeQueue() throws InterruptedException, IOException 
 	{ 
