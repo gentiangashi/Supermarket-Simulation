@@ -1,5 +1,5 @@
 /**
- * @author Gentian Gashi | 14/10/2020 | Total Lines: 644
+ * @author Gentian Gashi | 14/10/2020 | Total Lines: 570
  *
  */
 import java.io.BufferedReader;
@@ -33,21 +33,18 @@ public class Main {
 		Consumer consumer = new Consumer(shop,sharedQ);	
    
 		// (Duplicate Stream) Output in console && writes to file
-        FileOutputStream file = new FileOutputStream("output.txt");
-        TeePrintStream tee = new TeePrintStream(file, System.out);
-        System.setOut(tee);
+		FileOutputStream file = new FileOutputStream("output.txt");
+		OutputPrintStream output = new OutputPrintStream(file, System.out);
+		System.setOut(output);
         
 		System.out.println("=============== Simulation Started ===============");
 		producer.start();
 		consumer.start();
-		try{
-		Thread.sleep(simulationClock);
+		try{Thread.sleep(simulationClock);
 		producer.interrupt();
 		consumer.interrupt();
-		Thread.sleep(1);
-		}
+		Thread.sleep(1);}
 		catch (InterruptedException e) {e.printStackTrace();} 
 		System.out.println("=============== Simulation Stopped ===============");
 	}	
 }
-

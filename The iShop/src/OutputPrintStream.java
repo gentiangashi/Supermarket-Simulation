@@ -3,10 +3,10 @@ import java.io.OutputStream;
 import java.io.PrintStream;
 // Accessed: https://stackoverflow.com/questions/1994255/how-to-write-console-output-to-a-txt-file
 // Modified By Gentian Gashi
-public class TeePrintStream extends PrintStream {
+public class OutputPrintStream extends PrintStream {
 	private final PrintStream second;
 
-	public TeePrintStream(OutputStream main, PrintStream second) {
+	public OutputPrintStream(OutputStream main, PrintStream second) {
 		super(main);
 		this.second = second;
 	}
