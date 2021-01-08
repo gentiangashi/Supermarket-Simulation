@@ -73,5 +73,6 @@ class Bag<Item> implements Iterable<Item> {
 
         System.out.println(file + "size of bag = " + bag.size());
         for (String rows : bag) {System.out.println(rows);}
+        file.close();
     }
 }
