@@ -1,7 +1,7 @@
 # Supermarket-Simulation
 
 ## Introduction
-A multi-threaded supermarket simulation using queues and design patterns such as MVC.
+A supermarket simulation consisting of customers and tills using - multi-threading, queues, producer/consumer, and other design patterns.
 
 ## Installation
 **JavaSE-10 or newer recommended** as other versions have not been tested
